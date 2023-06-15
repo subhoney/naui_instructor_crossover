@@ -23,3 +23,17 @@ The primary goal of NAUI leadership training is to help you become a valuable me
 1. Learning leadership skills and developing an effective personal leadership style through study and the observation of other leaders.
 1. Benefiting from evaluation and coaching on all aspects of leadership responsibilities.
 Gaining experience through exercising leadership skills under the supervision and guidance of a NAUI Instructor.
+
+### Developing Leaders
+
+No one can make a leader, but there are traits associated with the display of leadership. Training can help you identify and develop these traits within yourself. Once identified and understood, it will be your responsibility to nurture these qualities as you progress in leadership training throughout your career as a NAUI member and professional diver. NAUI leadership training will give you the tools that will enable you to develop your own techniques for working more effectively with divers, but you will develop your leadership ability in accord with your own personality, values, and style.
+
+### Personal Leadership Styles and Values
+
+Our conscious behavior is based upon our values and personality. Value (the worth that we ascribe to anything) derives from what we learn by observing our families, friends, culture, and world experience as filtered through our personalities. Personality is the sum of our talents, predisposition and experiences. We learn a great deal by observing the behavior of others, some of which we adapt to our personal style. But, as we evolve and become more confident and mature, we also reject some behaviors as unsuitable and undesirable.
+
+Attitudes (how we feel about things) govern our behavior. The development of an appropriate system of values and proper leadership attitudes is as vital to meeting membership responsibility as the acquisition of knowledge and skills.
+
+The process of leadership training is a continuation of your development as an individual. You will learn that observation, reflection, insight, and realization are as important to the process as study. You will become your version of a leader through a process of assimilation, adapting and modifying everything you learn. Some facets of your trainers’ leadership styles may impress you. Some of their techniques will be valuable as examples of effective leadership skills. However, not all of their styles or techniques may work for you. More important than picking up “tricks of the trade” is working in a leadership program that will show you how established members meet their leadership responsibilities.
+
+Like all NAUI leaders, you will regularly deal with the lives and well being of students and divers. You must develop an attitude that places concern for their safety at the highest level. Minimally competent divers are urged to improve in the same way that NAUI leaders are charged to constantly improve their own competence. Published minimum standards of achievement are treated as goals to be acquired and exceeded. NAUI leaders find satisfaction and enjoyment in inspiring divers to develop well beyond the minimum standards.
