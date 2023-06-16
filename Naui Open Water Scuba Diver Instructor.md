@@ -118,3 +118,11 @@ Personal example is one of a NAUI member’s strongest and most reliable communi
 The best NAUI leaders seem to have a certain humility about themselves and their achievements. Although one can often identify the leader in a group, it is generally not because the leader wears jacket patches, or demands attention. Rather it’s “just something” about the person’s demeanor and personality that makes their status clear.
 
 Your success as a NAUI leader will depend directly on your efforts to become one. Concentrating on the three concrete aspects that your training – knowledge, experience, and ability – will address and build the necessary foundation.
+
+### Knowledge
+
+Knowledge and the ability to communicate it are fundamental to exercising leadership. NAUI leadership status requires substantial, comprehensive knowledge of the various disciplines of scuba diving, from physiology to physics, mechanics to mathematics.
+
+The high regard NAUI members place on knowledge is further emphasized by the requirement that those who join continue formal training in the fields of diving, diving safety, and the aquatic environment in order to maintain active status.
+
+Knowledge is gained through formal study, practice and experience, but everyone absorbs information in their own way. While some can read and understand difficult concepts or formulae effortlessly, others must sometimes find alternative ways to learn.
