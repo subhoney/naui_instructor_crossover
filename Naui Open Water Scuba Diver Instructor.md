@@ -13,6 +13,13 @@
     - 1.6.4. [Academic Freedom](#AcademicFreedom)
     - 1.6.5. [Dynamic Growing Body of Knowledge and Skills](#DynamicGrowingBodyofKnowledgeandSkills)
     - 1.6.6. [Ever Improving Leadership and Instructor Training](#EverImprovingLeadershipandInstructorTraining)
+  - 1.7. [The NAUI Mission](#TheNAUIMission)
+- 2. [Leadership Fundamentals](#LeadershipFundamentals)
+  - 2.1. [Introduction](#Introduction-1)
+  - 2.2. [NAUI Leadership](#NAUILeadership)
+  - 2.3. [Knowledge](#Knowledge)
+  - 2.4. [Experience](#Experience)
+  - 2.5. [Ability](#Ability)
 
 <!-- vscode-markdown-toc-config
 	numbering=true
@@ -86,15 +93,15 @@ Exercising academic freedom and sharing resulting discoveries is a celebration o
 
 These dynamics produce perpetually improving leadership and instructor training courses as conducted by NAUI Instructors, Instructor Trainers, and Course Directors, who incorporate discoveries and new methodology. The outcome is superior leadership and instructor training and curricula of excellence that benefit the Association, the diving industry and global public all the while furthering the pursuit of the corporate mission.
 
-### The NAUI Mission
+### 1.7. <a name='TheNAUIMission'></a>The NAUI Mission
 
 To promote, through quality education, the techniques necessary for the general public to participate safely in underwater activities, and to educate those people in the preservation and protection of our underwater environment throughout their diving careers.
 
 Becoming a member of the National Association of Underwater Instructors is more than just joining a group with a reputation for quality. It is about embracing a set of values that transcend the mundane pursuit of a vocation. It is about becoming filled with a passion to achieve one’s personal best and helping other to achieve the same. It is about contributing to something larger than oneself and making the world a little better for having passed this way. NAUI members care deeply about diving, the aquatic environment and the safety of people who participate. You have chosen to accept a challenge that can be one of the most rewarding of your life and last an entire lifetime.
 
-## Leadership Fundamentals
+## 2. <a name='LeadershipFundamentals'></a>Leadership Fundamentals
 
-### Introduction
+### 2.1. <a name='Introduction-1'></a>Introduction
 
 Effective leaders are excited about their jobs, welcoming the challenge that responsibility entails. They are able to reassess, reevaluate, and adjust to changing demands, adapting to situations to provide responsible guidance and support. And their competence and proficiency build group confidence.
 
@@ -102,7 +109,7 @@ The best leaders carefully plan and train for their roles, and are organized and
 
 Leaders regard difficult tasks as challenges, but the most able leaders understand, as well, that people live within their own personal limitations. Developing the maturity to face such limitations, without accepting them as excuses for failure, is a mark of true leadership character. Failures do not discourage leaders. They use them to strengthen their resolve to overcome and to learn from them. Others’ failures are treated with compassion and assistance.
 
-### NAUI Leadership
+### 2.2. <a name='NAUILeadership'></a>NAUI Leadership
 
 The decision to seek NAUI leadership training begins with personal motivation – the will to act on ambition. The reasons vary by individual, but all who earn NAUI membership share the Association’s goals of promoting safer diving, helping the sport grow, and working to preserve the diving environment. They value excellence in these endeavors and find personal satisfaction in fulfilling the responsibility for continuing improvement embodied in their NAUI certification.
 
@@ -119,7 +126,7 @@ The best NAUI leaders seem to have a certain humility about themselves and their
 
 Your success as a NAUI leader will depend directly on your efforts to become one. Concentrating on the three concrete aspects that your training – knowledge, experience, and ability – will address and build the necessary foundation.
 
-### Knowledge
+### 2.3. <a name='Knowledge'></a>Knowledge
 
 Knowledge and the ability to communicate it are fundamental to exercising leadership. NAUI leadership status requires substantial, comprehensive knowledge of the various disciplines of scuba diving, from physiology to physics, mechanics to mathematics.
 
@@ -127,7 +134,7 @@ The high regard NAUI members place on knowledge is further emphasized by the req
 
 Knowledge is gained through formal study, practice and experience, but everyone absorbs information in their own way. While some can read and understand difficult concepts or formulae effortlessly, others must sometimes find alternative ways to learn.
 
-### Experience
+### 2.4. <a name='Experience'></a>Experience
 
 No amount of study or your instructor’s communications skill can substitute for actual guided practice– for scuba diving or leadership. Discussing and reading about an activity are not equivalent to participation. Too often people confuse a knowledgeable background with real experience.
 
@@ -135,7 +142,7 @@ The experience you will gain under your instructor’s guidance will increase yo
 
 Regardless, of past training, you will still make errors during your leadership training. This is perfectly natural, albeit discouraging at times, especially during formal evaluations. The key to dealing wisely with errors is to learn from yours and those of others.
 
-### Ability
+### 2.5. <a name='Ability'></a>Ability
 
 Ability denotes the capacity of an individual to perform a task or demonstrate a skill. NAUI training will help you acquire and refine leadership-level practical abilities, develop good technique, and the know-how to assess and correct flaws in others’ diving skills.
 
