@@ -134,3 +134,9 @@ No amount of study or your instructor’s communications skill can substitute fo
 The experience you will gain under your instructor’s guidance will increase your knowledge, diving ability, and understanding of NAUI leadership, and help you integrate what you have learned in the past. Your leadership training will also include real responsibilities, as well as simulations and practice scenarios. All will be aimed at giving you experience that will enable you to develop leadership judgment, the ability to make good diving decisions for yourself and others.
 
 Regardless, of past training, you will still make errors during your leadership training. This is perfectly natural, albeit discouraging at times, especially during formal evaluations. The key to dealing wisely with errors is to learn from yours and those of others.
+
+### Ability
+
+Ability denotes the capacity of an individual to perform a task or demonstrate a skill. NAUI training will help you acquire and refine leadership-level practical abilities, develop good technique, and the know-how to assess and correct flaws in others’ diving skills.
+
+Whatever certification level we hold, our status as NAUI members makes us highly visible and influential. Divers closely observe, and many seek to emulate all of our behavior, as well as diving competence. You must be able to meet this role model responsibility for the divers you will lead. More subtly, and perhaps ultimately more important, personal attributes and character will determine your success at developing this ability in your pursuit of leadership certification.
