@@ -101,3 +101,20 @@ Effective leaders are excited about their jobs, welcoming the challenge that res
 The best leaders carefully plan and train for their roles, and are organized and punctual. Forethought helps them do their jobs professionally, consistently performing at their best. Participants in these leaders’ activities know what to expect and that contingencies have been anticipated, allowing them to relax and concentrate on their own goals.
 
 Leaders regard difficult tasks as challenges, but the most able leaders understand, as well, that people live within their own personal limitations. Developing the maturity to face such limitations, without accepting them as excuses for failure, is a mark of true leadership character. Failures do not discourage leaders. They use them to strengthen their resolve to overcome and to learn from them. Others’ failures are treated with compassion and assistance.
+
+### NAUI Leadership
+
+The decision to seek NAUI leadership training begins with personal motivation – the will to act on ambition. The reasons vary by individual, but all who earn NAUI membership share the Association’s goals of promoting safer diving, helping the sport grow, and working to preserve the diving environment. They value excellence in these endeavors and find personal satisfaction in fulfilling the responsibility for continuing improvement embodied in their NAUI certification.
+
+The unique challenges of diving leadership, however, and NAUI’s dedication to Dive Safety Through Education, place special emphasis on the fundamentals of: knowledge, experience, and ability.
+
+Contact with NAUI leaders has likely given you some insight into this, and into the added realization that each leader embodies a personal set of leadership characteristics. Thus, there is no formula that can ensure your success as a NAUI leader, other than your willingness to strive to be the best you can be.
+
+NAUI leaders are typically dynamic, goal-oriented individuals, and display flexibility and resourcefulness. Such people welcome suggestions for improvement and work hard to build consensus, although never compromising or negotiating matters of safety, conservation, or NAUI standards. Groups respect their judgment and integrity, as well as their conscientious and caring attitude. NAUI members welcome questions as opportunities to educate, not as challenges to authority. They consider other viewpoints, and are open to learning from anyone.
+
+They are notable for their involved objectivity; they simultaneously care about the well being of others, while observing and helping with their difficulties and concerns.
+Personal example is one of a NAUI member’s strongest and most reliable communication tools. Despite their position of authority and control, members strive to be polite and reasonable, and work to ensure their personal manner is usually engaging and approachable. They take care in their speech and actions, understanding that even personal grooming will have an effect on other persons’ perception of them as a leader.
+
+The best NAUI leaders seem to have a certain humility about themselves and their achievements. Although one can often identify the leader in a group, it is generally not because the leader wears jacket patches, or demands attention. Rather it’s “just something” about the person’s demeanor and personality that makes their status clear.
+
+Your success as a NAUI leader will depend directly on your efforts to become one. Concentrating on the three concrete aspects that your training – knowledge, experience, and ability – will address and build the necessary foundation.
