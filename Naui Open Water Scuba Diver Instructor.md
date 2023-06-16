@@ -91,3 +91,13 @@ These dynamics produce perpetually improving leadership and instructor training 
 To promote, through quality education, the techniques necessary for the general public to participate safely in underwater activities, and to educate those people in the preservation and protection of our underwater environment throughout their diving careers.
 
 Becoming a member of the National Association of Underwater Instructors is more than just joining a group with a reputation for quality. It is about embracing a set of values that transcend the mundane pursuit of a vocation. It is about becoming filled with a passion to achieve one’s personal best and helping other to achieve the same. It is about contributing to something larger than oneself and making the world a little better for having passed this way. NAUI members care deeply about diving, the aquatic environment and the safety of people who participate. You have chosen to accept a challenge that can be one of the most rewarding of your life and last an entire lifetime.
+
+## Leadership Fundamentals
+
+### Introduction
+
+Effective leaders are excited about their jobs, welcoming the challenge that responsibility entails. They are able to reassess, reevaluate, and adjust to changing demands, adapting to situations to provide responsible guidance and support. And their competence and proficiency build group confidence.
+
+The best leaders carefully plan and train for their roles, and are organized and punctual. Forethought helps them do their jobs professionally, consistently performing at their best. Participants in these leaders’ activities know what to expect and that contingencies have been anticipated, allowing them to relax and concentrate on their own goals.
+
+Leaders regard difficult tasks as challenges, but the most able leaders understand, as well, that people live within their own personal limitations. Developing the maturity to face such limitations, without accepting them as excuses for failure, is a mark of true leadership character. Failures do not discourage leaders. They use them to strengthen their resolve to overcome and to learn from them. Others’ failures are treated with compassion and assistance.
