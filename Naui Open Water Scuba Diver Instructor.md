@@ -147,3 +147,13 @@ Regardless, of past training, you will still make errors during your leadership 
 Ability denotes the capacity of an individual to perform a task or demonstrate a skill. NAUI training will help you acquire and refine leadership-level practical abilities, develop good technique, and the know-how to assess and correct flaws in others’ diving skills.
 
 Whatever certification level we hold, our status as NAUI members makes us highly visible and influential. Divers closely observe, and many seek to emulate all of our behavior, as well as diving competence. You must be able to meet this role model responsibility for the divers you will lead. More subtly, and perhaps ultimately more important, personal attributes and character will determine your success at developing this ability in your pursuit of leadership certification.
+
+## Working as a NAUI Member
+
+### Introduction
+
+NAUI leaders are in demand in every recreational diving setting around the globe. They work full-time year-round, part-time, evenings, weekends, and seasonally. They are self-employed or employed at local clubs and dive stores, colleges, dive resorts, and summer camps. They live and work in exotic locales, aboard cruise liners, luxury yachts, research vessels, and in their hometowns.
+
+The NAUI leadership role you are considering, or for which you are training, can be your entry to an exciting new life-style; or it may provide you with an expanded and rewarding dimension to your regular activities. The choice is yours as a NAUI Assistant Instructor, Skin Diving Instructor, Divemaster, or Instructor.
+
+Dues paid NAUI leaders are all members of the Association, and have the right to display their leadership credentials. Each year, members are notified of annual dues and renewal requirements, and must comply in order to maintain their desired status – active, sustaining, or emeritus. Through the strength of our Association, members may obtain liability insurance appropriate to their certification level and status.
