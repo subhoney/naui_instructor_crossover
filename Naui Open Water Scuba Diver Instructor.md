@@ -126,3 +126,11 @@ Knowledge and the ability to communicate it are fundamental to exercising leader
 The high regard NAUI members place on knowledge is further emphasized by the requirement that those who join continue formal training in the fields of diving, diving safety, and the aquatic environment in order to maintain active status.
 
 Knowledge is gained through formal study, practice and experience, but everyone absorbs information in their own way. While some can read and understand difficult concepts or formulae effortlessly, others must sometimes find alternative ways to learn.
+
+### Experience
+
+No amount of study or your instructor’s communications skill can substitute for actual guided practice– for scuba diving or leadership. Discussing and reading about an activity are not equivalent to participation. Too often people confuse a knowledgeable background with real experience.
+
+The experience you will gain under your instructor’s guidance will increase your knowledge, diving ability, and understanding of NAUI leadership, and help you integrate what you have learned in the past. Your leadership training will also include real responsibilities, as well as simulations and practice scenarios. All will be aimed at giving you experience that will enable you to develop leadership judgment, the ability to make good diving decisions for yourself and others.
+
+Regardless, of past training, you will still make errors during your leadership training. This is perfectly natural, albeit discouraging at times, especially during formal evaluations. The key to dealing wisely with errors is to learn from yours and those of others.
