@@ -1,12 +1,34 @@
+<!-- vscode-markdown-toc -->
+
+- 1. [Dive Safety Through Education](#DiveSafetyThroughEducation)
+  - 1.1. [Introduction](#Introduction)
+  - 1.2. [National Association of Underwater Instructors](#NationalAssociationofUnderwaterInstructors)
+  - 1.3. [NAUI Leadership Training](#NAUILeadershipTraining)
+  - 1.4. [Developing Leaders](#DevelopingLeaders)
+  - 1.5. [Personal Leadership Styles and Values](#PersonalLeadershipStylesandValues)
+  - 1.6. [NAUI Values of Leadership and Instruction](#NAUIValuesofLeadershipandInstruction)
+    - 1.6.1. [Superior Leadership and Instructor Training](#SuperiorLeadershipandInstructorTraining)
+    - 1.6.2. [Democratic Association of Equals](#DemocraticAssociationofEquals)
+    - 1.6.3. [Trust and Respect](#TrustandRespect)
+    - 1.6.4. [Academic Freedom](#AcademicFreedom)
+    - 1.6.5. [Dynamic Growing Body of Knowledge and Skills](#DynamicGrowingBodyofKnowledgeandSkills)
+    - 1.6.6. [Ever Improving Leadership and Instructor Training](#EverImprovingLeadershipandInstructorTraining)
+
+<!-- vscode-markdown-toc-config
+	numbering=true
+	autoSave=true
+	/vscode-markdown-toc-config -->
+<!-- /vscode-markdown-toc -->
+
 # Naui Open Water Scuba Diver Instructor
 
-## Dive Safety Through Education 
+## 1. <a name='DiveSafetyThroughEducation'></a>Dive Safety Through Education
 
-### Introduction
+### 1.1. <a name='Introduction'></a>Introduction
 
 Since its inception, NAUI members have earned a worldwide reputation for quality scuba leadership. Our organization has continued to attract the best minds in diving because of our continuing emphasis on quality. It is this reputation for excellence that likely contributed to your decision to seek membership. As a member, you will profit from this high public regard. You will also be expected to help maintain this reputation by working conscientiously to improve diving safety through education of others and through your personal commitment to continuing education. Few people are fortunate enough to earn a living doing what they love to do. Earning membership in NAUI will create opportunities to work in exotic locations and share your love of diving with a variety of people from all over the world.
 
-### National Association of Underwater Instructors
+### 1.2. <a name='NationalAssociationofUnderwaterInstructors'></a>National Association of Underwater Instructors
 
 Unlike other diving certification organizations, NAUI is a worldwide, democratic, membership association dedicated to serving the public. NAUI is democratic in that our instructor members elect the Board of Directors, who represent the membership and establish policies and directions for our association. Our corporate mission statement is paraphrased as our stated purpose, which is “to enable people to enjoy underwater activities as safely as possible by providing the highest quality practical education, and to actively promote the preservation and protection of the world’s underwater environments.” Every person who becomes a NAUI member pledges him or herself to follow and to further this purpose.
 
@@ -15,20 +37,20 @@ Desire alone does not ensure NAUI leadership certification. The training is a ch
 
 The Membership Agreement you will be asked to read and sign when you join is an example of how seriously NAUI members take their responsibility to maintain the Association’s reputation and high quality service to divers and students. It asks you to grant our Membership Review Committee the right to investigate and recommend disciplinary action if you do not behave professionally as a member and abide by NAUI’s Code of Ethics. You will be expected to follow and support the collective will and mind of the membership as expressed in our Standards and Policies Manual. This obligation also includes, however, the freedom to define how to best fulfill leadership responsibilities and develop your own professional style and teaching methods. Members’ individuality and unique contributions are highly valued.
 
-### NAUI Leadership Training
+### 1.3. <a name='NAUILeadershipTraining'></a>NAUI Leadership Training
 
 The primary goal of NAUI leadership training is to help you become a valuable member and as successful a diving leader as you can be. This training has four aspects:
 
 1. Acquiring diving knowledge and developing the ability to perform and demonstrate specific essential water skills.
 1. Learning leadership skills and developing an effective personal leadership style through study and the observation of other leaders.
 1. Benefiting from evaluation and coaching on all aspects of leadership responsibilities.
-Gaining experience through exercising leadership skills under the supervision and guidance of a NAUI Instructor.
+   Gaining experience through exercising leadership skills under the supervision and guidance of a NAUI Instructor.
 
-### Developing Leaders
+### 1.4. <a name='DevelopingLeaders'></a>Developing Leaders
 
 No one can make a leader, but there are traits associated with the display of leadership. Training can help you identify and develop these traits within yourself. Once identified and understood, it will be your responsibility to nurture these qualities as you progress in leadership training throughout your career as a NAUI member and professional diver. NAUI leadership training will give you the tools that will enable you to develop your own techniques for working more effectively with divers, but you will develop your leadership ability in accord with your own personality, values, and style.
 
-### Personal Leadership Styles and Values
+### 1.5. <a name='PersonalLeadershipStylesandValues'></a>Personal Leadership Styles and Values
 
 Our conscious behavior is based upon our values and personality. Value (the worth that we ascribe to anything) derives from what we learn by observing our families, friends, culture, and world experience as filtered through our personalities. Personality is the sum of our talents, predisposition and experiences. We learn a great deal by observing the behavior of others, some of which we adapt to our personal style. But, as we evolve and become more confident and mature, we also reject some behaviors as unsuitable and undesirable.
 
@@ -37,3 +59,35 @@ Attitudes (how we feel about things) govern our behavior. The development of an 
 The process of leadership training is a continuation of your development as an individual. You will learn that observation, reflection, insight, and realization are as important to the process as study. You will become your version of a leader through a process of assimilation, adapting and modifying everything you learn. Some facets of your trainers’ leadership styles may impress you. Some of their techniques will be valuable as examples of effective leadership skills. However, not all of their styles or techniques may work for you. More important than picking up “tricks of the trade” is working in a leadership program that will show you how established members meet their leadership responsibilities.
 
 Like all NAUI leaders, you will regularly deal with the lives and well being of students and divers. You must develop an attitude that places concern for their safety at the highest level. Minimally competent divers are urged to improve in the same way that NAUI leaders are charged to constantly improve their own competence. Published minimum standards of achievement are treated as goals to be acquired and exceeded. NAUI leaders find satisfaction and enjoyment in inspiring divers to develop well beyond the minimum standards.
+
+### 1.6. <a name='NAUIValuesofLeadershipandInstruction'></a>NAUI Values of Leadership and Instruction
+
+#### 1.6.1. <a name='SuperiorLeadershipandInstructorTraining'></a>Superior Leadership and Instructor Training
+
+NAUI and its members are committed to providing the highest quality leadership and instructor training possible. Embracing the tenets of over-learning, maximizing individual potential, public speaking, developing personal best aquatic skills, minimum and no impact environmental activism, and learning by doing consistently produces the best graduates.
+
+#### 1.6.2. <a name='DemocraticAssociationofEquals'></a>Democratic Association of Equals
+
+The democratic process in regular elections determines the Association’s leadership, its Board of Directors. Each instructor earns the privilege to cast one vote for a fellow member that he or she believes can best serve the Association. Because we all have the same right to directly influence the organization and no individual voting member exercises more or less than a single vote, each member’s views are equally important. The right to vote carries with it a responsibility and obligation to stay informed about Board of Director candidates and engage in the election process.
+
+#### 1.6.3. <a name='TrustandRespect'></a>Trust and Respect
+
+Superior leadership and instructor training are founded in the “Loved One” concept. That is, it is only those we would trust to train our loved ones to dive that we graduate at any level and especially so for leadership and instructor certification. This basis allows us to collectively trust members to behave ethically and respect their abilities as NAUI leaders and educators.
+
+#### 1.6.4. <a name='AcademicFreedom'></a>Academic Freedom
+
+Trust and respect are necessary for members to exercise a most cherished and fundamental right of educational leadership – the freedom to meet the academic needs of their students. NAUI members are encouraged to explore and thereby discover new and innovative ways to help each individual student, as well as divers they lead and teach meet certification requirements – and further to share those discoveries in the Association publications so that other members may benefit.
+
+#### 1.6.5. <a name='DynamicGrowingBodyofKnowledgeandSkills'></a>Dynamic Growing Body of Knowledge and Skills
+
+Exercising academic freedom and sharing resulting discoveries is a celebration of members’ imaginations. It also leads to ever improving training producing better generations of graduates with each completed course. This directly contributes to and renews our organization’s vitality and relevance to the diving industry in which we compete.
+
+#### 1.6.6. <a name='EverImprovingLeadershipandInstructorTraining'></a>Ever Improving Leadership and Instructor Training
+
+These dynamics produce perpetually improving leadership and instructor training courses as conducted by NAUI Instructors, Instructor Trainers, and Course Directors, who incorporate discoveries and new methodology. The outcome is superior leadership and instructor training and curricula of excellence that benefit the Association, the diving industry and global public all the while furthering the pursuit of the corporate mission.
+
+### The NAUI Mission
+
+To promote, through quality education, the techniques necessary for the general public to participate safely in underwater activities, and to educate those people in the preservation and protection of our underwater environment throughout their diving careers.
+
+Becoming a member of the National Association of Underwater Instructors is more than just joining a group with a reputation for quality. It is about embracing a set of values that transcend the mundane pursuit of a vocation. It is about becoming filled with a passion to achieve one’s personal best and helping other to achieve the same. It is about contributing to something larger than oneself and making the world a little better for having passed this way. NAUI members care deeply about diving, the aquatic environment and the safety of people who participate. You have chosen to accept a challenge that can be one of the most rewarding of your life and last an entire lifetime.
