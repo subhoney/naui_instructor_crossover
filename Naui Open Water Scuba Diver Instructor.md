@@ -319,3 +319,13 @@ Even so, your ITC is only the beginning. Preparing to instruct and being a NAUI 
 Success at a NAUI ITC requires extensive advance preparation, and your strong commitment to achievement. No one becomes a NAUI leader, let alone an instructor, casually. Dedication and commitment to purpose are fundamental to the process. You must be strongly motivated to attain instructor certification.
 
 Sufficient time must be devoted for judgment to develop in an aspiring leader, and to develop the confidence, determination, and attitude you will need to carry you through the experience. Attending an ITC before one is fully ready is usually frustrating and counterproductive. While it is theoretically possible to progress from non-diver to diving instructor in a relatively short time, becoming a skilled leader is the result of an unhurried maturation and a long-term dedication to achieving goals. Individuals must judge their readiness in consultation with their own leaders.
+
+### Mentors
+
+If you have participated in the progression of NAUI leadership certification courses, it is likely that you will have acquired a mentor, a trusted counselor or teacher. This individual will have inspired and guided you to the point where you feel ready to begin the process of becoming an instructor. Their wisdom and character should be an example and comfort to you, guiding you in your preparation.
+
+### Experience 
+
+Experience is key to success at a NAUI ITC and as a NAUI Instructor. In recognition of this, NAUI Standards require a minimum number of logged dives to qualify for leadership training at each level, as well as minimum participation in NAUI classes.
+
+Acquiring useful experience is seldom easy or free. It takes planning and judgment to select appropriate activities, time, and commitment to complete them, and help to properly evaluate and benefit from them. Training, experience, guided evaluation, and coaching are all elements of preparation that will contribute to your success.
