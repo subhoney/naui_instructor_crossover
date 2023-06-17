@@ -324,8 +324,26 @@ Sufficient time must be devoted for judgment to develop in an aspiring leader, a
 
 If you have participated in the progression of NAUI leadership certification courses, it is likely that you will have acquired a mentor, a trusted counselor or teacher. This individual will have inspired and guided you to the point where you feel ready to begin the process of becoming an instructor. Their wisdom and character should be an example and comfort to you, guiding you in your preparation.
 
-### Experience 
+### Experience
 
 Experience is key to success at a NAUI ITC and as a NAUI Instructor. In recognition of this, NAUI Standards require a minimum number of logged dives to qualify for leadership training at each level, as well as minimum participation in NAUI classes.
 
 Acquiring useful experience is seldom easy or free. It takes planning and judgment to select appropriate activities, time, and commitment to complete them, and help to properly evaluate and benefit from them. Training, experience, guided evaluation, and coaching are all elements of preparation that will contribute to your success.
+
+### Diving: Quantity and Quality
+
+It is the depth of experience, not just the quantity of experience that prepares a person for successful completion of an ITC and for being an effective and capable teacher of divers.
+
+Some NAUI Instructor Trainers and Course Directors recommend making a minimum of 100 dives in addition to dives completed during training before entering an ITC – far in excess of the minimum requirement. They may actually require such experience for entry into their leadership courses. NAUI Standards do not restrict members from establishing prerequisites in excess of published minimums. (These must be communicated to prospective enrollees before beginning training.) By doing so, they are underscoring the value of diving experience, and attempting to ensure their trainees’ success.
+
+Having made 100 or even 1,000 dives at a few sites may not yield as useful experience as would be gained by making the minimum prerequisite dives at different places under varied conditions. However, dive sites needn’t be geographically distant or exotic to yield distinctive experiences. Variety can stem from planning different dive activities and objectives, during different seasons, or at different times of the day or night.
+
+Participating in planning and executing even routine diving activities in a variety of circumstances is invaluable preparation and will increase your competence and confidence. Additionally, seek to vary the environments in which you dive. Experience in fresh and salt water, warm, temperate, and cool climates, and challenging conditions such as low-visibility or currents will further augment your skills and knowledge.
+
+Practice all skills, including underwater navigation and search and recovery during day and night dives. Learn the skills of wreck penetration, deeper diving, and other specialty diving or aspects of technical diving. Experiences like these will prove valuable at your ITC and, more importantly, later, as you practice the craft of teaching diving.
+
+Finally, realize that your goal requires that you don’t just make dives, no matter how many, but rather that you continually gain from them. Use every dive as a chance to perfect your skills, increase your ability and acquire knowledge. Debrief with your dive partner after every dive. Aspiring to professional diving instructor status requires professional level concentration on every dive.
+
+### Supervised Diving Experience
+
+Diving under supervision with specific training goals usually results in quality experience and increased diving acumen. Express your leadership ambition to individuals supervising any activities in which you participate. Regardless of their professional affiliation, most active diving leaders will be happy to provide feedback on your skills. Use such feedback (even from dive vacations or pleasure dives) to focus your pre-ITC preparation. The most profitable blend of supervised diving in formal training with recreational experience should be determined in consultation with your NAUI mentor.
