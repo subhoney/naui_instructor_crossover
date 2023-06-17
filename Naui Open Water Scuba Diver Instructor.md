@@ -313,3 +313,9 @@ ITCs vary in structure from accelerated nine or ten day courses to extended inte
 Completing prerequisite training courses can best develop the skills, knowledge, and attitudes necessary for success at a NAUI ITC. NAUI’s Master Scuba Diver Educational System is a convenient way to gain or review instructor level knowledge of diving academics. Candidates should also have developed polished, leadership quality diving skills and practical knowledge through extensive diving experience. Once thoroughly prepared, a candidate is ready to gain the most from the ITC. Without thorough earlier training and development, it is extremely difficult to successfully complete an ITC.
 
 Even so, your ITC is only the beginning. Preparing to instruct and being a NAUI Instructor are ongoing processes that last throughout a career. Instructor status, as with other NAUI certifications, is just another step in your development as a diving leader and career as a NAUI member.
+
+### Time and Commitment
+
+Success at a NAUI ITC requires extensive advance preparation, and your strong commitment to achievement. No one becomes a NAUI leader, let alone an instructor, casually. Dedication and commitment to purpose are fundamental to the process. You must be strongly motivated to attain instructor certification.
+
+Sufficient time must be devoted for judgment to develop in an aspiring leader, and to develop the confidence, determination, and attitude you will need to carry you through the experience. Attending an ITC before one is fully ready is usually frustrating and counterproductive. While it is theoretically possible to progress from non-diver to diving instructor in a relatively short time, becoming a skilled leader is the result of an unhurried maturation and a long-term dedication to achieving goals. Individuals must judge their readiness in consultation with their own leaders.
