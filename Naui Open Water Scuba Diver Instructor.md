@@ -281,3 +281,13 @@ While divers should be advised to maintain their own records of diving activitie
 #### Equipment and Procedures
 
 Divemasters should develop checklists of mandatory and recommended equipment for diving activities. The divemaster’s goal should be to ensure that divers are equipped to safely enjoy the dive.
+
+### Being a Divemaster
+
+Since no two diving experiences are exactly the same, only considered judgment and experience can guide a divemaster in any specific situation. A helpful, out-going manner and competent leadership behavior at a dive site accompanied by superior ability in the water will help ensure success.
+
+Little details, like having plentiful drinking water available, or distributing fruit or candy to divers after they have unsuited can help a personal reputation, but conducting safe and enjoyable dives is more the issue.
+
+In practice, the divemaster job rarely ends when all the divers have safely exited the water. There are still many clean-up and other tasks that need attention. These can include checking in rental equipment, filling cylinders, organizing and collecting weights, maintaining gear, developing photos, washing down the boat, and virtually anything else that needs doing. Divemasters are likely among the first to arrive at every dive event, and often the last to leave. In resort areas, it is often said that divemasters work “from dawn till done.”
+
+Divemasters are vital to NAUI’s success and are important contributors to safer diving.
