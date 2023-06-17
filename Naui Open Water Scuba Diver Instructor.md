@@ -20,6 +20,19 @@
   - 2.3. [Knowledge](#Knowledge)
   - 2.4. [Experience](#Experience)
   - 2.5. [Ability](#Ability)
+- 3. [Working as a NAUI Member](#WorkingasaNAUIMember)
+  - 3.1. [Introduction](#Introduction-1)
+  - 3.2. [NAUI Leadership Training Physical Requirements](#NAUILeadershipTrainingPhysicalRequirements)
+  - 3.3. [NAUI Leadership Positions](#NAUILeadershipPositions)
+  - 3.4. [The NAUI Assistant Instructor](#TheNAUIAssistantInstructor)
+  - 3.5. [The NAUI Skin Diving Instructor](#TheNAUISkinDivingInstructor)
+  - 3.6. [The NAUI Divemaster](#TheNAUIDivemaster)
+  - 3.7. [The Instructor Path](#TheInstructorPath)
+- 4. [Divemastering](#Divemastering)
+  - 4.1. [Introduction](#Introduction-1)
+  - 4.2. [A Divemaster's Authority](#ADivemastersAuthority)
+    - 4.2.1. [Duty](#Duty)
+    - 4.2.2. [Responsibility](#Responsibility)
 
 <!-- vscode-markdown-toc-config
 	numbering=true
@@ -148,9 +161,9 @@ Ability denotes the capacity of an individual to perform a task or demonstrate a
 
 Whatever certification level we hold, our status as NAUI members makes us highly visible and influential. Divers closely observe, and many seek to emulate all of our behavior, as well as diving competence. You must be able to meet this role model responsibility for the divers you will lead. More subtly, and perhaps ultimately more important, personal attributes and character will determine your success at developing this ability in your pursuit of leadership certification.
 
-## Working as a NAUI Member
+## 3. <a name='WorkingasaNAUIMember'></a>Working as a NAUI Member
 
-### Introduction
+### 3.1. <a name='Introduction-1'></a>Introduction
 
 NAUI leaders are in demand in every recreational diving setting around the globe. They work full-time year-round, part-time, evenings, weekends, and seasonally. They are self-employed or employed at local clubs and dive stores, colleges, dive resorts, and summer camps. They live and work in exotic locales, aboard cruise liners, luxury yachts, research vessels, and in their hometowns.
 
@@ -158,15 +171,78 @@ The NAUI leadership role you are considering, or for which you are training, can
 
 Dues paid NAUI leaders are all members of the Association, and have the right to display their leadership credentials. Each year, members are notified of annual dues and renewal requirements, and must comply in order to maintain their desired status – active, sustaining, or emeritus. Through the strength of our Association, members may obtain liability insurance appropriate to their certification level and status.
 
-### NAUI Leadership Training Physical Requirements
+### 3.2. <a name='NAUILeadershipTrainingPhysicalRequirements'></a>NAUI Leadership Training Physical Requirements
 
 NAUI leadership training is a mentally and physically challenging process. All NAUI leadership candidates must have had a recent physical examination by a physician familiar with the demands of diving. The purpose of this exam is to help ensure that trainees face no undue personal risk or pose a risk to others by entering NAUI training and that they will likely be able to adequately discharge their responsibilities to help other divers when certified as NAUI leaders. NAUI leadership includes many physical tasks beyond swimming and diving ability. Helping students or divers through surf or currents, for instance, or having to render assistance or rescue divers when the need is apparent are basic leadership tasks.
 
 While NAUI supports the policy of achieving consensus and respects the opinions of physicians, the final decision authority on an individual’s ability to participate in training courses or serve in a leadership position lies within our organization. When you become a NAUI leader, you will engage in the same fitness evaluation process with every individual with whom you work. Responsible diving leadership includes making certain that participants understand and fully assume the risks of their participation before a training or supervisory commitment is made.
 
-### NAUI Leadership Positions
+### 3.3. <a name='NAUILeadershipPositions'></a>NAUI Leadership Positions
 
 Each NAUI leadership position entitles holders to certain rights and privileges as a member, and each has different levels of appropriate activity and responsibility. All leadership roles demand adherence to NAUI’s Standards and Policies, and require superior ability and commitment to NAUI’s high ideals of professional and personal conduct.
 
 As a NAUI member, you will be considered a role model for divers and students with whom you work. Fulfilling the responsibility to inspire and lead divers demands maturity, honesty, competence, judgment, ability and tact, and your personal commitment to add to NAUI’s reputation. Consider the impression your behavior will make, and realize that it will reflect upon all members of our Association, no matter what leadership role you perform.
 
+### 3.4. <a name='TheNAUIAssistantInstructor'></a>The NAUI Assistant Instructor
+
+A NAUI Assistant Instructor is qualified to help train skin and scuba divers under the direct supervision of an active-status NAUI Instructor. Although assistants are not permitted to teach skin or scuba diving independently, formally evaluate students for certification or assume sole responsibility for a diving class or students without an instructor present, they perform many valuable services in all phases of NAUI dive training.
+
+Assistants enhance individual development and group safety, as well as-extend an instructor’s span of control by exercising additional vigilance, and can often alert instructors to students’ needs before they become problems.
+
+Like all NAUI leaders, assistant instructors too must have superior water ability, and “demonstration quality” skills. They are frequently called upon to demonstrate proper techniques to dive students at an instructor’s request. Additionally, they must be completely prepared to serve as rescue divers, providing emergency assistance appropriate to their training.
+
+Most assistant instructors aspire to become NAUI Instructors, and serving as an assistant is the most valuable “on-the-job training” available for this goal.
+
+Assistant instructors certification, like all NAUI leadership ratings, carries great responsibility and commands respect in the diving community.
+
+### 3.5. <a name='TheNAUISkinDivingInstructor'></a>The NAUI Skin Diving Instructor
+
+A NAUI Skin Diving Instructor is qualified to independently teach and certify skin diving students, and may register graduates for skin diver certification credentials upon their meeting current NAUI standards. Scuba-certified skin diving instructors may also serve as assistant instructors during NAUI scuba courses, subject to the same activity limitations as other qualified assistants. Skin diving instructors may not teach scuba diving on their own.
+
+NAUI Skin Diving Instructors have the opportunity to promote underwater enjoyment and aquatic conservation to a much wider audience than scuba alone can reach, and can significantly contribute to NAUI’s mission.
+
+### 3.6. <a name='TheNAUIDivemaster'></a>The NAUI Divemaster
+
+A NAUI Divemaster is qualified to organize and supervise dives for certified divers, and may also assist NAUI Instructors during certification training.
+
+While Divemasters may neither teach courses nor issue diving certifications, they have a wide area within which they can gain personal rewards and contribute to NAUI’s mission. NAUI Divemasters are authorized to conduct NAUI Recognition Programs for certified divers, and award recognition materials, including cards and certificates.
+
+Divemasters frequently pursue diving careers as activity leaders or underwater guides. While directing recreational diving activities in virtually every imaginable setting, NAUI Divemasters regularly deal with certified individuals from every agency and every part of the world.
+
+Their main role is to promote, plan, organize and conduct recreational diving activities for certified individuals and groups.
+
+### 3.7. <a name='TheInstructorPath'></a>The Instructor Path
+
+Many individuals enter leadership training with the eventual goal of becoming NAUI scuba instructors. Earning a NAUI leadership position is fundamental preparation for a NAUI Instructor Training Course (ITC). As an instructor you are the key to the success of most diving businesses who need well-trained motivated students and divers to be enthusiastic and satisfied customers.
+
+A NAUI Instructor certification presents limitless opportunity. Post instructor training and continued personal development is also an option after gaining some teaching experience.
+
+## 4. <a name='Divemastering'></a>Divemastering
+
+### 4.1. <a name='Introduction-1'></a>Introduction
+
+NAUI Divemasters organize and oversee dives for certified recreational divers. Enjoying challenging work in every facet of recreational diving, divemasters wield great influence and can do much to help divers make better decisions about their diving activities.
+
+Divemasters may operate as independent dive professionals or serve as diving staff members at schools, universities, dive stores, or clubs. They can plan, organize, promote, and lead local and vacation dive excursions in any of these situations. Divemasters assisting NAUI Instructors are considered “qualified” assistants for staffing ratios as detailed in the NAUI Standards and Policies Manual. Regardless of their actual position, divemasters are NAUI leaders in every sense; highly responsible individuals whose training qualifies them to render assistance in any diving incident. Divemasters may have to “save” a dive with spare gear, timely advice, or counseling, or if called upon in a diving emergency, may literally save a diver’s life.
+
+### 4.2. <a name='ADivemastersAuthority'></a>A Divemaster's Authority
+
+NAUI Divemasters regularly assume serious responsibilities overseeing divers, although they are neither “dive bosses,” nor “diving supervisors.” The authority of a NAUI Divemaster is usually grounded solely in the diving community’s respect for NAUI, and for the individual’s evident competency as a highly-trained, expert diver.
+
+#### 4.2.1. <a name='Duty'></a>Duty
+
+Like all NAUI leaders, divemasters are professionals rather than recreational divers. In particular divemaster certification means having earned the qualifications to assume independent leadership. This can imply responsibility for peoples’ lives. Such status in some areas of the world carries the legal duty to conduct professional activities in a proficient, responsible manner. This includes making a proactive commitment to maintaining and enhancing one’s personal diving and rescue skills and leadership ability through practice, regular continuing education, and professional development.
+
+#### 4.2.2. <a name='Responsibility'></a>Responsibility
+
+NAUI Divemasters rely on their own judgment, experience, and professionalism when assuming direct responsibility for certified divers. Because of the broad scope of recreational diving activities in which divemasters operate, NAUI Standards do not specify how many divers a divemaster can manage. The answer to this question for each diving situation depends upon many factors. Some of the variables are:
+
+- The training and experience of the participants.
+- The dive site, environmental conditions, and weather.
+- The demands of the planned diving activity.
+- The number and quality of people assisting.
+- Personal knowledge of the participants and their diving abilities.
+
+This wide latitude confers a correspondingly high obligation for NAUI Divemasters to exercise sound, conservative judgment. The maximum number of participants for any activity must be based on how many divers can be reasonably handled with the level of care expected of a NAUI leader. Thus, the most important element in deciding what constitutes a reasonable number of divers is the actual level of ability the divemaster brings to each unique situation. There will obviously be times when anyone would recognize they need help, and there will be other situations that are more equivocal. Judgment gained through NAUI leadership training and experience helps divemasters analyze situations, assess risks, and respond appropriately.
+
+Safety and professional responsibility are the ultimate criteria for all NAUI diving activities. This can sometimes mean dividing groups and staggering dive times to reduce the number of people in the water at any given time or advising less accomplished divers against participating. Though correct, such decisions can be unpopular or financially detrimental. Despite these consequences, a divemaster’s greatest satisfaction comes from knowing that the last diver in any group has safely exited the water.
