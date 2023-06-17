@@ -347,3 +347,8 @@ Finally, realize that your goal requires that you don’t just make dives, no ma
 ### Supervised Diving Experience
 
 Diving under supervision with specific training goals usually results in quality experience and increased diving acumen. Express your leadership ambition to individuals supervising any activities in which you participate. Regardless of their professional affiliation, most active diving leaders will be happy to provide feedback on your skills. Use such feedback (even from dive vacations or pleasure dives) to focus your pre-ITC preparation. The most profitable blend of supervised diving in formal training with recreational experience should be determined in consultation with your NAUI mentor.
+
+### Experience Supervising and Teaching
+
+Gaining experience supervising divers is just as important as your personal diving competence. Working with a NAUI Instructor is the single most effective way to develop adequate supervisory competence in preparation for a NAUI ITC. Earning certificates to teach other personal safety courses, such as CPR and First Aid, and conducting these classes, is good training for a potential NAUI Instructor and will make you more valuable when you are certified to teach scuba.
+
