@@ -254,3 +254,30 @@ NAUI Divemasters must be highly accomplished divers and extremely effective lead
 Divemasters must be expert at diving in the conditions in which they work. They should also be familiar with the accepted practices for activities in which divers with whom they work may engage, whether or not they participate themselves. They should also be familiar with most diving equipment. They may need additional training in specialized areas such as technical diving, air compressor operation and maintenance, breathing gas cylinders, and filling/gas blending equipment. They may even need to become qualified equipment technicians or marine mechanics to be effective in some jobs.
 
 All divemasters will find good planning, organizational skills, and record-keeping ability important to their role, especially if operating independently. As NAUI members, divemasters can take advantage of a variety of educational benefits available through their local NAUI Representatives, Service Centers, and the Association.
+
+### Assisting Divers
+
+NAUI Divemasters, working independently or as assistants, must be able to:
+
+- Conduct pre-dive briefings that incisively cover hazards and risk avoidance.
+- Conduct appropriate pre-dive equipment checks.
+- Help divers perform weighting/buoyancy checks.
+- Help divers prevent or resolve problems.
+- Guide certified divers at the surface and underwater.
+- Effectively manage or personally respond to diving emergencies.
+
+Clearly, the most difficult and important of these tasks is acquiring and maintaining the knowledge and ability necessary to competently assist a distressed or injured diver. The proper response to any situation will be dictated by a rapid on-site assessment, and all divemasters must be mentally and physically prepared to determine and render appropriate aid. To be able to do this, they must commit to learning and repeatedly practicing emergency response skills throughout their careers.
+
+#### Organizing and Assembling Divers
+
+A great deal of a divemaster’s leadership effort goes into the simple logistics of organizing and assembling divers. Much of this takes place before a diving event. Directions for rendezvous, travel arrangements and costs, departure and return times, necessary lodging and meal recommendations, and any particular documents or fees, such as for area admissions, boat rides, or equipment rental should all be communicated to participants well in advance. Divemasters are also usually responsible for imparting site information, such as any “house rules” for boats, beaches, or other areas and conducting dive briefings and debriefings at the event.
+
+#### Record Keeping
+
+Divemasters should maintain good records of diving activities they conduct. It is required that such records be kept for a period of five years. This includes the dive rosters, activity and personal information – such as names, certification levels and agencies, addresses, ages, emergency contact, and medical insurance information – for all participants.
+
+While divers should be advised to maintain their own records of diving activities, they often depend on the divemaster log as a source of post-dive information that they can then transcribe to their personal log. Divemasters are also frequently asked to sign logbooks as witnesses. They are strongly advised to read such items carefully before signing and to refrain from endorsing questionable or incomplete entries.
+
+#### Equipment and Procedures
+
+Divemasters should develop checklists of mandatory and recommended equipment for diving activities. The divemaster’s goal should be to ensure that divers are equipped to safely enjoy the dive.
