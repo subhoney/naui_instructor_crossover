@@ -398,3 +398,17 @@ Your success in a NAUI ITC will be directly related to the amount of leadership 
 It is a NAUI tenet that we strive to know more than we teach. NAUI Instructors regularly help others develop an understanding of the practical applications and effects of various scientific principles related to recreational diving. Instructors must be able to effectively tutor in disciplines as diverse as the basic computational skills needed for dive planning to foster an understanding of basic cardiopulmonary function. All such instruction is aimed at the level needed to help divers and students make better diving decisions and minimize their potential risk while learning and diving.
 
 It is therefore necessary to gain the skills necessary to teach in scuba-specialized areas of academics. Your ITC will help you develop teaching ability, but it is important that you be prepared in advance to make the most of the instruction you will receive.
+
+## Planning and Organizing Dives
+
+### Planning
+
+Every diver has heard the axiom:
+
+> Plan your dive; dive your plan.
+
+Its corollary for diving leadership is:
+
+> If you fail to plan, you plan to fail.
+
+Planning helps minimize the chance for errors by anticipating variables that might affect the event’s success. It includes deciding what needs to be done in every eventuality and how best to do it. Some of these are best accomplished well in advance, while others may be modified at the moment. They all affect one another and contribute to a dive’s success.
