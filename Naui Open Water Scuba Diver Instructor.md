@@ -120,6 +120,27 @@
   - 7.30. [Wreck Dives](#WreckDives)
   - 7.31. [Wreck Diving Procedures](#WreckDivingProcedures)
   - 7.32. [Conclusion](#Conclusion)
+- 8. [Guiding and Escorting](#GuidingandEscorting)
+- 9. [Introduction](#Introduction-1)
+  - 9.1. [Guiding Certified Divers](#GuidingCertifiedDivers)
+  - 9.2. [Group Organization](#GroupOrganization)
+  - 9.3. [Buddy Diving](#BuddyDiving)
+  - 9.4. [Entry Procedures](#EntryProcedures)
+  - 9.5. [Descent Procedures](#DescentProcedures)
+  - 9.6. [Ascent and Exit Procedures](#AscentandExitProcedures)
+  - 9.7. [Positioning Procedures](#PositioningProcedures)
+  - 9.8. [Briefing Considerations](#BriefingConsiderations)
+  - 9.9. [Communications](#Communications)
+  - 9.10. [Handling Underwater Difficulties](#HandlingUnderwaterDifficulties)
+  - 9.11. [Separation](#Separation)
+  - 9.12. [Equipment Problems](#EquipmentProblems)
+  - 9.13. [Exceeding Maximum Planned Depth](#ExceedingMaximumPlannedDepth)
+  - 9.14. [Air Consumption Problems](#AirConsumptionProblems)
+  - 9.15. [Injuries and Accidents](#InjuriesandAccidents)
+  - 9.16. [Escorting Student Divers](#EscortingStudentDivers)
+  - 9.17. [Escorting on the Surface](#EscortingontheSurface)
+  - 9.18. [Escorting Underwater](#EscortingUnderwater)
+  - 9.19. [Post-dive Activities](#Post-diveActivities-1)
 
 <!-- vscode-markdown-toc-config
 	numbering=true
@@ -913,14 +934,15 @@ Night and low visibility dives on wrecks can be extremely hazardous. Such condit
 
 All specialty, technical, and “out of the ordinary” dives require specialized leadership techniques, training, and extra planning. Leaders organizing specialty dives are advised to include other qualified NAUI leaders as staff.
 
-## Guiding and Escorting
-## Introduction
+## 8. <a name='GuidingandEscorting'></a>Guiding and Escorting
+
+## 9. <a name='Introduction-1'></a>Introduction
 
 Guiding certified divers is often the basis for a divemaster’s or scuba instructor’s employment. The NAUI active-status member assumes responsibility for leading divers underwater, showing them to and around a particular site, and guiding them back to the boat or shore exit point.
 
 NAUI Divemasters, Assistant Instructors, Training Assistants and scuba-certified Skin Diving Instructors working under the supervision of an active-status NAUI Instructor may escort divers-in-training on the surface and may also accompany up to two students underwater after the skills evaluation portions of the second and subsequent open water training dives.
 
-### Guiding Certified Divers
+### 9.1. <a name='GuidingCertifiedDivers'></a>Guiding Certified Divers
 
 Successful dive guides are able to lead a group underwater, helping to improve divers’ skills by example and advice, and preventing and dealing with problems. Though certified divers are qualified to dive without leadership help or supervision, they frequently make arrangements to be guided underwater for many reasons. Divers may wisely request guiding services because a site is hard to find or new to them. Diving resort owners employ guides to make their diving operations more efficient, and to enhance guests’ enjoyment. Besides leading groups underwater, guides may assist divers into and out of the water and, depending on the circumstances, fulfill other Activity Leader or Divemaster duties as well.
 
@@ -928,46 +950,46 @@ Given the range of diving variables, not the least of which is the divers themse
 
 Divers often ask guides to help them participate in personal interests, such as taking game, photography, video, or finding artifacts. Guides should avoid participation in such activities to the extent they may distract them from their primary responsibility to the group.
 
-### Group Organization
+### 9.2. <a name='GroupOrganization'></a>Group Organization
 
 There is no maximum number of certified divers a NAUI leader may guide underwater. Depending on the activity and divers, however, eight to ten is a reasonable number for one experienced guide under ideal daylight conditions in clear, calm water.
 
-### Buddy Diving
+### 9.3. <a name='BuddyDiving'></a>Buddy Diving
 
 Despite contrary minority opinions, buddy diving is the industry’s standard practice, and is unmitigated by the presence of a dive guide or participation as a member of a larger group. Whenever necessary, guides should facilitate buddy pairs’ forming, making introductions and suggestions. However, assigning people to one another is not part of the guide or divemaster’s role; nor are such pairings within their power to enforce.
 
 If aware of their increased risks and willing to accept them, especially in writing, divers should be permitted to dive in non-standard teams of threes or more. The same concept must apply to those who desire to dive alone. Such unpleasant situations are greatly helped, and often avoided, if participants are aware of the rules and policies before they commit to the activity.
 
-### Entry Procedures
+### 9.4. <a name='EntryProcedures'></a>Entry Procedures
 
 Divers should be checked on entry as usual. If an Activity Divemaster is directing from the surface, the guiding leader can enter the water before the group. If no other leadership personnel are present, it is generally better for guides to assist divers while they make their entries and enter last.
 
 If a floating line is used to assemble the group, the leader should be certain that there is enough room for all the divers on the line. If surface conditions are unsuitable for assembling the group, divers may be instructed to descend in buddy pairs to some convenient point on the line or to assemble in buddy pairs as a group on the bottom.
 
-### Descent Procedures
+### 9.5. <a name='DescentProcedures'></a>Descent Procedures
 
 Guiding divers during descent is one of the most difficult aspects of any dive. Currents, poor visibility, apprehension, equipment malfunction or misuse, and equalization difficulties can all pose problems that must be resolved; even though they are generally beyond a guide’s direct control. Except for calm, still, shallow water dives, it is best to have the group descend on a line and to keep the line within sight until all divers and the guide are on the bottom. This practice at least keeps everyone together at the beginning, and it allows the guide the best chance to assist any divers who may experience difficulty, without losing contact with the rest of the group.
 
 It should be explained, understood, and agreed during the briefing that anyone who cannot descend within two minutes after the start of the descent will abort the dive and wait for the next one. Individuals who are unable to equalize underwater should be escorted to the exit point.
 
-### Ascent and Exit Procedures
+### 9.6. <a name='AscentandExitProcedures'></a>Ascent and Exit Procedures
 
 Ascent and exit techniques and precautions should be explained before the dive. Guided divers should be requested to ascend on a line, whenever possible, reminded about ascent rates and practices, and reminded about performing a precautionary stop of at least three minutes at 5 meters (15 feet) at the end of all dives. Since guided divers are certified, buddy teams may ascend independently of the group. Guides should also ask divers to notify them before leaving the group, particularly if a buddy pair is ending the dive.
 
 Guides should stay with the majority of the divers, and generally exit the water last. If there are no leadership or other support personnel at the surface, then the group should gather at the original assembly float or line and await the guide’s instructions. Depending on circumstances, the guide may leave the water first to assist the others out or stay in the water to assist any divers waiting to exit.
 
-### Positioning Procedures
+### 9.7. <a name='PositioningProcedures'></a>Positioning Procedures
 
 The most important groundwork for successful guiding underwater is positioning. Guides must position themselves in relation to the terrain and must position divers for maximum visibility and control.
 
-### Briefing Considerations
+### 9.8. <a name='BriefingConsiderations'></a>Briefing Considerations
 
 A dive guide’s briefing should include all the usual information and should stress that individual divers retain responsibility for their own and their buddy’s safety, although diving as part of a larger guided group. Other specific points to include for guided dive briefings are:
 
 - A description of the type of positioning to be used during the dive, and the request that divers maintain the same relative positions throughout the dive.
 - The suggestion to divers that it is their responsibility to keep track of the guide, not vice-versa.
 
-### Communications
+### 9.9. <a name='Communications'></a>Communications
 
 Guides, like other diving leaders, need better communications than those afforded by only standard hand signals. Guides often develop unique signals that pertain only to frequently dived specific sites. Special hand signals can be used and should be reviewed during the dive briefing.
 
@@ -975,16 +997,81 @@ Simple audible communications can be effective when divers are told in advance t
 
 Divers should understand what to do when the recall is sounded, such as return to the boat and surface, or surface directly and look to the boat for instructions. Standard light signals should be reviewed before guided night dives.
 
-### Handling Underwater Difficulties
+### 9.10. <a name='HandlingUnderwaterDifficulties'></a>Handling Underwater Difficulties
 
 Guides will eventually face every imaginable problem. No matter how unlikely or impossible it may seem for an event to occur, it will sooner or later happen, and generally at the worst possible time. It is important to understand that it is not a question of “if,” but of “when.”
 
-### Separation
+### 9.11. <a name='Separation'></a>Separation
 
 It is important for the divers to understand they have the responsibility of maintaining contact with their guide. Pre-dive agreement on a general dive pattern and diver positioning can help, but procedures for reuniting if separation does occur should be discussed and agreed upon before the dive. Guided individuals who become separated from the group should follow the procedures established in the pre-dive briefing.
 
 Guides generally should not ascend to look for separated divers or bring the entire group to the surface to do so. Guides fulfill their obligation by doing their best to keep track of everyone and informing divers of their responsibility.
 
-### Equipment Problems
+### 9.12. <a name='EquipmentProblems'></a>Equipment Problems
 
 Guides face the same risks as other leaders in lending divers equipment, or hastily “repairing” gear. If the equipment is faulty, it can result in an accident, which may be attributed to the leader despite their helpful motivation. Divers with such problems should be discouraged from diving until the equipment is repaired or replaced. Though such actions can be complicated when the guide represents the entity from which the gear may have been rented or purchased, having appropriate spares available, and ensuring all gear is working properly before leaving for the dive, will prevent or resolve such problems.
+
+### 9.13. <a name='ExceedingMaximumPlannedDepth'></a>Exceeding Maximum Planned Depth
+
+The choice to chase a diver who descends deeper than the planned maximum depth is a difficult one for any diving leader, but guides have a responsibility to the whole group that supersedes jeopardizing themselves in this manner. The issue is complicated when a buddy team or large fraction of the group is significantly deeper than planned. Positioning problem aside, guides should attempt to gain the attention of the offending diver(s) with audible signals, hand signals, or by dropping a small object in front of the diver(s), if possible. The diver(s) should then be signaled to ascend to the agreed depth and signaled to check air supply and decompression status as applicable.
+
+Guides working in areas with extreme drop-offs should particularly stress the divers’ responsibility to accurately monitor depth. Leaders should also advise divers to have contingency depth plans available so they may properly shorten their dives if the original planned depth is exceeded. Though dive computers automatically keep track of depth, time, and no-decompression limits, divers should be aware that the information can change rapidly as depth increases, and they should monitor such devices carefully throughout the dive, especially in reference to remaining air supply and safe ascent procedures.
+
+### 9.14. <a name='AirConsumptionProblems'></a>Air Consumption Problems
+
+It is generally unacceptable to terminate a dive for an entire group of certified divers when a diver or buddy pair is low on air and everyone else in the group has sufficient air to comfortably continue.
+
+If one member of a dive team is low on air and the anchor line or exit point is distant, that buddy team should be directed to the surface. They may then return to the exit point, while the remainder of the divers complete the dive. This contingency should be discussed as part of the dive briefing, and divers should be aware of the procedure to follow.
+
+One of a guide’s primary concerns is that a diver will run out of air. It is every diver’s responsibility to prevent this from occurring, and guides should encourage divers to plan to prevent and deal with this possibility. For instance, each dive team should be reminded to review air sharing procedures before diving together.
+
+In the event a buddy cannot or does not share air with an out-of-air diver, guides should, if possible. Guides should similarly always try to prevent an out-of-air diver, or one who rejects the regulator, from bolting to the surface if possible. Divers who make emergency ascents should be accompanied until out of the water.
+
+Circumstances can necessitate returning the whole group to the surface, depending on the location, activity, and divers remaining. Guides should plan the most appropriate procedure for their activities, bearing in mind their responsibility to the group and the needs of the distressed diver. Helping distressed, possibly injured, or apparently disabled divers is part of a guide’s leadership responsibility, but actions must be weighed against imperiling the other divers in the group.
+
+### 9.15. <a name='InjuriesandAccidents'></a>Injuries and Accidents
+
+While guides are not lifeguards, and distressed divers should first obtain assistance from their buddies, NAUI members are trained professionals and routinely expected to help divers underwater and at the surface as best they can. Once the decision to aid or rescue is made, the diving leader must perform to the standard of care of a diving professional, and must see the emergency through to completion. Normally, this means until the point when victims can be turned over to more qualified emergency care providers.
+
+### 9.16. <a name='EscortingStudentDivers'></a>Escorting Student Divers
+
+The major difference between guiding certified divers and escorting students is the increased level of responsibility, care, and vigilance required when working with relatively inexperienced students in open water. All escorts are subject to the explicit directions of the NAUI instructor in charge of the training activity.
+
+### 9.17. <a name='EscortingontheSurface'></a>Escorting on the Surface
+
+Leaders assigned to escort students must be certain that they understand exactly what is expected of them. The procedures they will follow should then be discussed with the students they will escort, reviewing directions to ensure their own and students’ common understanding of the instructor’s plan.
+
+In addition to any specific directions the instructor provides, escorts should ensure that student divers:
+
+- Enter the water with enough air in their BC to be buoyant (except in specialized surf entries where it may be necessary for the divers to swim under the surf zone on regulator, surfacing outside it);
+- Use their snorkels unless otherwise instructed;
+- Remain in a compact group, and within touching distance of their buddies;
+- Follow their escort;
+- Consistently observe and listen to the escort for signals or instructions.
+
+Escorts should stay close to, and particularly concentrate their attention on the students during entries and exits. Students are unfamiliar with their new center of gravity with gear on, and may need assistance to keep from falling. After entry, students may experience disorientation or adjustment problems for which an escort should be alert.
+
+Once in the water and moving toward the destination, escorts usually swim on their backs, enabling them to continually monitor and encourage following students.
+Students should generally swim face down at the surface, looking frequently at their buddy and their escort, with either a snorkel or their regulator second stage in their mouths.
+
+Escorts should strive to make surface excursions informative and enjoyable. Stopping from time to time is a good idea that enables student divers to regroup and rest.
+
+Escorts should never leave students for whom they are responsible unless specifically relieved by the instructor or replaced by another qualified escort. Students should never be left alone at the surface or taken underwater without the supervising instructor’s explicit direction.
+
+### 9.18. <a name='EscortingUnderwater'></a>Escorting Underwater
+
+Remember at all times that escorts are not diving with students, rather they are assisting instructors with completing students’ open water training. Escorts position themselves much closer to students than a guide does to a group of certified divers or most buddies ever do to one another. Escorts are nearly always within touching distance of student divers, especially before the students have completed their third training dive.
+
+An escort must fully understand and accurately follow the supervising instructor’s directions regarding any underwater tour conducted. Escorts should know and review with students the tour’s depth, time, and distance limits, and the desired procedures to follow after the tour’s completion.
+
+An escort may accompany a buddy pair by remaining slightly above and behind, either to the left or the right, but within touching distance. If assigned a single student, escorts maintain a position that easily enables them to render any necessary aid to the student and reinforce the concepts of buddy diving.
+
+When the instructor turns the students over to an escort underwater, such as after conducting skill evaluations, the escort should immediately take charge.
+
+Escorts must adjust their swimming pace to accommodate students’ abilities and should encourage students to move slowly and gracefully through the water by doing so themselves. Escorts provide students with a sharp visual example, and using standard “demonstration quality” underwater techniques is mandatory. Escorts should avoid uncommon maneuvers, however impressive, when working with students. Remind students about buoyancy adjustments and buddy contact, and use routine hand signals to have them check and communicate their cylinder pressure to each other, and their escort, frequently. Escorts should look at students’ gauges on occasion, in addition to accepting their hand signals, to ensure accuracy.
+
+Students who are to ascend with their escorts should be instructed prior to the dive to remain at exactly the same level and maintain the same ascent rate as their escort throughout the exercise. NAUI leaders should scrupulously observe the ascent procedures the students have been taught and discuss these with the supervising instructor to ensure compliance. If possible, escorts should make a precautionary decompression stop at a depth of 5 meters (15 feet), even though a stop may not normally be required from the training depth. Such a stop helps ensure a well-controlled ascent and helps students develop prudent diving habits.
+
+### 9.19. <a name='Post-diveActivities-1'></a>Post-dive Activities
+
+The instructor will most likely conduct a formal debriefing of the training experience for the entire group. Prior to this most instructors take a moment privately with their staff after all students have exited the water to gain escorts’ insights about individual student’s problems. Escorts should be prepared to provide instructors with feedback relative to student performance on the tour at this point.
