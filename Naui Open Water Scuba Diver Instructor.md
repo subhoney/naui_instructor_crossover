@@ -440,3 +440,7 @@ While all dives will require certain equipment in common, some activities requir
 Scheduling often identifies uncontrollable problems or timing conflicts. These may be minimized with forethought, but the best plan can fail due to natural or accidental circumstances. Variables such as weather, site conditions, engine breakdown, and the like can all have effects.
 
 Whenever possible, an alternate dive site plan should exist in case the primary choice is somehow unsuitable. There will, however, be days when the only good choice is to postpone an activity. Leaders should have an alternate day scheduled, and divers should know if this possibility exists in advance. The contingency plans in these cases should include the possibility of refunds or future credit. Also consider that if the target dive location is a known to be unpredictable and alternative locations are not an option, it may be wiser to promote the excursion as a “great day at the beach” with scuba diving as a bonus – conditions permitting.
+
+### Evaluating Diving Conditions
+
+Leaders need to learn about weather, water conditions, and temperature at chosen dive sites. The best way to obtain accurate information about a planned diving area is to combine research with an advance visit. Short of an extra visit, leaders should plan to arrive at sites well in advance of participants to “scout.” If you must escort the group, talk to other leaders and divers who have been to the site recently.
