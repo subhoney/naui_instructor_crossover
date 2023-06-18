@@ -596,3 +596,7 @@ This in contrast to the definition of “Direct Supervision,” which is:
 > “Supervision by the NAUI Instructor of the class or group of students from a distance allowing immediate intervention on behalf of the student. It is the level of supervision required while evaluating student performance of skills required for certification.”
 
 These definitions help distinguish between supervising NAUI students during their initial scuba diver training experiences and subsequent experiences during which greater responsibility for dive conduct is transferred from instructors to students. Such transfer necessarily alters an instructor’s supervisory role from being able to immediately intervene to being present and ready to respond with aid to those in need.
+
+### Awareness
+
+Accepting NAUI leadership responsibility means that one fully commits to responding to divers’ needs and helping ensure their safe enjoyment of diving. “Global Awareness,” the term used to describe the absolute concentration NAUI members use to support that commitment, is a combination of experience, judgment, and knowledge. More than simply watching, such awareness is based on continuously observing divers and dynamically assessing conditions, equipment, and the full range of other variables that contribute to a dive’s success.
