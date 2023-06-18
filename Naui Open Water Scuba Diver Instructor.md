@@ -600,3 +600,11 @@ These definitions help distinguish between supervising NAUI students during thei
 ### Awareness
 
 Accepting NAUI leadership responsibility means that one fully commits to responding to divers’ needs and helping ensure their safe enjoyment of diving. “Global Awareness,” the term used to describe the absolute concentration NAUI members use to support that commitment, is a combination of experience, judgment, and knowledge. More than simply watching, such awareness is based on continuously observing divers and dynamically assessing conditions, equipment, and the full range of other variables that contribute to a dive’s success.
+
+### Evaluating Conditions
+
+The overall criteria for evaluating any diving activity are the same for all diving groups and locales, but each diving event and its participants must be judged individually. NAUI members must decide whether the overwhelming majority of the divers present can most probably safely enjoy the dive, given the available personnel and conditions – not whether the site is “dive-able” for the leader or selected divers. It is especially important to judge to what extent the less skilled can be encouraged to participate.
+
+Regardless of the activity or diving area, all factors that will affect divers should be noted. Such general water data as visibility, temperature, current, swell, or waves should all be evaluated. Dive platform considerations, such as an anchored boat’s swinging arc, shoreside terrain or beach, or freshwater diving, are still other factors. Considerations, however, vary by activity, and diving leaders must develop their critical judgment in order to make decisions about specific activities.
+
+In practice, all activities benefit from a member of the dive staff getting into the water to assess actual conditions at the site. This is often accomplished when aiding a dive boat in anchoring or setting the dive flag and necessary floats for shore diving. Time for such direct observation should be included in the activity plan.
