@@ -494,3 +494,10 @@ When student numbers are too large in dive classes, qualified assistants may be 
 NAUI supports buddy diving as a routine practice and aid to safer diving. It is practiced in all NAUI training activities. An Activity Leader will definitely face liability problems in case of any mishap that might be even remotely attributed to the lack of a buddy if the buddy system was not endorsed and used when conducting dive(s).
 
 During recreational diving, Activity Leaders or Activity Divemasters encourage certified divers to select their own buddies. Though the two-person buddy team is most common, some diving specialty activities such as cave or wreck penetration may be best done in three-person teams. In training, NAUI Instructors must assign or approve students’ buddy choices.
+
+### Motivating Divers
+
+Motivating divers usually involves helping them to behave in their own best interests. NAUI leaders are generally best able to motivate divers by a combination of “show and tell.” Remember that actions are based on attitudes that are based, in turn, on values: people ascribe worth to certain ideas and act accordingly. Remember, as well, that much behavior is learned by observing others and leaders are, by their position, highly visible. We can extrapolate from these ideas the two main motivational tools NAUI leaders can use:
+
+1. Educating divers about our values and attitudes, fostering understanding and compliance through respect for knowledge;
+1. Behaving in an exemplary professional manner that supports NAUI’s commitment to safe diving and environmental conservation.
