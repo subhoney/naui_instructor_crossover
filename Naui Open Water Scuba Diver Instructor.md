@@ -729,3 +729,47 @@ In spite of pre-dive instructions, some divers may surface far from the vessel. 
 ### Open Water Training Dives from Boats
 
 Non-certified divers require a greater degree of observation and control than experienced divers, and can only dive under the supervision of an active-status instructor or qualified assistants, albeit at reduced ratio. The only exception to this policy occurs in the NAUI Scuba Diver course for the navigation exercise on the second or subsequent training dives and only after evaluating the required skills.
+
+### Profiling
+
+Dive schedules should be arranged so passengers make their deepest dives first. This time-tested practice can prevent excessively long required surface intervals between dives. NAUI’s RGBM dive tables, which have a stated surface interval of at least one hour, do not allow for reverse dive profiles. Overall it is simpler, safer, and wiser to dive progressively shallower profiles.
+
+### Post-dive Activities
+
+As the boat moves from site to site throughout the day, leaders should tell passengers the travel time to the next dive site, what the site will be like, and approximately how deep it will be. This enables divers to relax, plan their next dive, possibly remove their exposure suits, and have something to eat and drink. Divers should refrain from consuming alcoholic beverages before diving. Groups should understand this policy prior to departure.
+
+At day’s end, thank everyone for being aboard or joining the trip and remind them to check their belongings carefully to avoid leaving anything. Leaders should also check the boat thoroughly for lost gear before departing for the day.
+
+### Overseeing Shore Dives
+
+Diving from shore offers a wide range of relatively inexpensive, easily accessible and rewarding diving opportunities. The shore-based diver is able to make dives at almost any time of the day or night. For the leader directing shore diving activities, planning, preparation, and organization are essential for a positive experience.
+
+#### Site Preparation
+
+Initial site preparation includes assessing dive conditions, selecting and delineating entry and exit points, and setting the diving float and flag. At limited visibility locations, a guideline may be extended from shore along the bottom to offshore dive locations as part of site preparation.
+
+These last preparation tasks provide an opportunity to assess conditions first-hand, and enable leaders to modify the planned activity, move to an alternate site, or even abort the dive, if warranted.
+
+#### Pre-Shore-Dive Briefings
+
+All the usual briefing considerations apply, and shore dives have some elements that need special attention. For instance, a shore dive briefing should emphasize the importance of being considerate of private property owners and beach users. There are restrictive ordinances for shore diving activities in many coastal areas of the United States because groups of divers have been noisy, left garbage on the beach, trespassed on private property, or parked illegally in residential areas. Leaders should encourage divers to be respectful of others living near or using the waterfront.
+
+### Overseeing Specialty Diving
+
+Supervising specialty diving poses some special problems for NAUI leaders. Chief among these is that divers may participate in specialty activities without training or certification, despite strong recommendations to the contrary. Dives made to satisfy certification requirements in a specialty area should be treated like any other training dive.
+
+### Night Diving
+
+Night diving is probably the most common specialty activity that divers enjoy, and often without any additional training. Leaders should plan accordingly, organizing the event to accommodate the group’s general level of experience. This may require leaders to minimize the consequences of darkness. For instance, one can plan the dive to begin at dusk, ending after dark. Because the transition from daytime to full darkness will have only begun, divers will have time to slowly acclimate, and still experience the nocturnal underwater environment by the end of their dive. Dressing and entry activities will also be less stressful, benefiting from the more lighted conditions of dusk.
+
+### Site Selection
+
+If possible, arrive at the night diving site before sunset and dive there in daylight as an orientation to the location and the diving conditions. Preferred sites are calm, protected anchorages or coves, or along shores with little water movement, such as surf or current, and unobstructed access. In any case, avoid areas with drop-offs, long swims, or difficult entries or exits. Night diving in areas with overhead environments can be particularly hazardous, as without cues from diminishing daylight, divers may be unaware they may no longer directly ascend to the surface.
+
+### Site Preparation Ashore
+
+An important aspect of shore-based night diving is adequate shore lighting and site management. Leaders should set up a well-lit area for suiting up and for pre-dive equipment inspections, generally using a variety of lanterns. Brightly lit beach parking lots make excellent staging areas, helping to avoid misplacing gear, as well as providing a reassuring atmosphere.
+
+It is important to establish a welcome-home beacon on the beach. This is a range of two or three lights mounted above the high water line on shore. Used properly, such lights provide divers a quick reference for the exit point, and a means to avoid shallow and shore hazards when it is time to navigate back from the dive. Range lights should be positioned in a vertical line with the top light some distance behind the lower. Ideally, the lights will be of different colors as well, to aid in distinguishing them from one another and from street or house lights. Position these lights high enough so they can be seen from the water, but ensure that they will not confuse boaters seeking navigational aids.
+
+If the lights are seen as one above the other, divers will know their exit point is straight ahead. If the lights are viewed in an oblique position, the divers will have to swim parallel to shore until the lights line up, then to shore.
