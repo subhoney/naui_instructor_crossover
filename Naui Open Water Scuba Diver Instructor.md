@@ -539,3 +539,15 @@ One method of doing this is to have divers sign a “Statement of Understanding�
 If a rule is violated, it is usually best to tell people immediately. Restate the management importance and tangible benefit of following the rule and request cooperation from that point on. Difficult though this may be, if the Activity Leader does not enforce rules and policies, they will soon become meaningless and of no value in controlling the group.
 
 Always try to avoid confrontation or embarrassment. Keep discussion of infractions neutral, informative and focused on the objectionable action, not the person’s character or behavior. Tact, diplomacy, and humor will often defuse tension that can result from efforts to regulate behavior.
+
+### Preparation
+
+Preparation includes preparing final briefings for staff and participants and otherwise ensuring that everything from gear to people is ready. Two excellent ways to prepare are with the use of checklists and by distributing fact sheets and printed instructions. Checklists are extremely useful memory aids for diving leaders, staff, or divers (samples for dive briefings and debriefings are contained in the NAUI Risk Management Handbook). Fact sheets help avoid misunderstanding and reduce repetitive questions.
+
+Another excellent preparation technique is to get participants together at an advance meeting to set the ground rules for the activity. If people know what is expected of them beforehand, the activity will be much better organized, and it will be much more likely that everyone will arrive on time with everything they will need. The type of diving experience being organized will help determine what type of meeting and response to expect.
+
+Leaders should organize their personal items and diving equipment, the dive support equipment, spare parts, extra gear, and emergency equipment well before any planned event. It is wise to use a checklist that inventories and indicates all necessary equipment has been inspected and tested. Replace parts or repair any items as needed and pack carefully. Encourage divers to take the same action with their own gear.
+
+Additional preparation tasks include making a written briefing outline for the activity, preparing rosters, including possibly one on a waterproof slate, copying any required forms, compiling emergency contact information, and making final confirmation phone calls to ensure that the emergency telephone numbers you have are current and working.
+
+One of the most important results of careful preparation is increased confidence for all. Participants with organized and complete information will be more confident in their ability to cope, and they will be much more confident in the ability of a thorough, organized leader. Relaxed, confident divers and leaders will enjoy the event more, and carefully planned, well prepared activities are much more likely to proceed without mishap than unprofessional, ad hoc affairs.
