@@ -582,3 +582,15 @@ One of the most important results of careful preparation is increased confidence
 ### Introduction
 
 Whether in charge as a divemaster or instructor or assisting another leader, conducting safe, enjoyable dives is a basic goal and primary activity of NAUI members.
+
+### Overseeing Dives
+
+While it would be impossible to detail the specifics of every possible combination of divers and situations, there are some basic precepts that NAUI leaders can apply in overseeing most dives.
+
+In the Glossary of the NAUI Standards and Policies Manual “Overseeing” is defined as:
+“The overall control, intermittent supervision, evaluation, and direction of instruction, student skill performance, and diving activities by a NAUI Instructor of a class or group of students. The instructor must be present at the training site prepared to direct and render appropriate in-water assistance in aid of a student.”
+
+This in contrast to the definition of “Direct Supervision,” which is:
+“Supervision by the NAUI Instructor of the class or group of students from a distance allowing immediate intervention on behalf of the student. It is the level of supervision required while evaluating student performance of skills required for certification.”
+
+These definitions help distinguish between supervising NAUI students during their initial scuba diver training experiences and subsequent experiences during which greater responsibility for dive conduct is transferred from instructors to students. Such transfer necessarily alters an instructor’s supervisory role from being able to immediately intervene to being present and ready to respond with aid to those in need.
