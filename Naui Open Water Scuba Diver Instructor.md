@@ -444,3 +444,9 @@ Whenever possible, an alternate dive site plan should exist in case the primary 
 ### Evaluating Diving Conditions
 
 Leaders need to learn about weather, water conditions, and temperature at chosen dive sites. The best way to obtain accurate information about a planned diving area is to combine research with an advance visit. Short of an extra visit, leaders should plan to arrive at sites well in advance of participants to “scout.” If you must escort the group, talk to other leaders and divers who have been to the site recently.
+
+### Knowing Dive Participants
+
+Learning as much as possible about the people with whom one will be diving is important to effective leadership. NAUI leaders who have participated in a scuba class, for instance, will have grown familiar with the strengths and weaknesses of students before scheduling training dives, and can plan more efficiently. They will also have the benefit of having established their credibility and competence in the minds of participants. Such familiarity can help reduce student anxiety. No open water training dives should be conducted unless leaders are certain that students have received sufficient training to participate with minimal risk.
+
+Informal interviewing is an essential communication skill that makes planning and leading dives with unfamiliar people easier. Finding out about people’s prior dive experiences and training in a conversation is easy, but learning about how they feel about the current situation requires subtlety and time. NAUI leaders who frequently work with strangers should plan this time into their normal schedule. At a minimum, consider allowing enough time to review a person’s dive log or have a brief, one-on-one conversation before entering the water.
