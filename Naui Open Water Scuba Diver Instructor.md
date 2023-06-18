@@ -608,3 +608,30 @@ The overall criteria for evaluating any diving activity are the same for all div
 Regardless of the activity or diving area, all factors that will affect divers should be noted. Such general water data as visibility, temperature, current, swell, or waves should all be evaluated. Dive platform considerations, such as an anchored boat’s swinging arc, shoreside terrain or beach, or freshwater diving, are still other factors. Considerations, however, vary by activity, and diving leaders must develop their critical judgment in order to make decisions about specific activities.
 
 In practice, all activities benefit from a member of the dive staff getting into the water to assess actual conditions at the site. This is often accomplished when aiding a dive boat in anchoring or setting the dive flag and necessary floats for shore diving. Time for such direct observation should be included in the activity plan.
+
+### Leadership Communication
+
+Effective leadership of diving activities begins with the ability to communicate with divers above and below the water. Whether by distributing handouts of procedures or checklists in advance, making hand signals, writing on an underwater slate, or using a megaphone, horn, or whistle on the surface, leaders depend on their ability to transmit messages and instructions to divers.
+
+In addition to standard underwater hand signals used by buddy teams, specialized leadership hand signals are useful for directing groups of divers. Some common ones are:
+
+- Get with your buddy; where is your buddy?
+- Follow me.
+- Ascend a little.
+- Inflate your BC.
+- Deflate your BC.
+- Get neutrally buoyant, level off.
+- Exhale.
+- Look (look close, look distant).
+- Don’t touch or take.
+- Relax, take it easy, slow down.
+- Hold it. Wait here or wait there.
+- Attention.
+- Recall. Return to beach or boat.
+- Aquatic life: fish, eelgrass, etc.
+- Boat, ladder, or line.
+- Check air supply, time, and depth.
+
+Additional signals that might be useful at specific sites should also be included in briefings. These might include descriptive gestures for a particular feature of the dive, such as the deckhouse of a wreck, or the opening of a cavern, or the signals instructors use to request students perform various skills.
+
+Some leaders make up a set of easily read underwater flashcards to avoid having to write frequently used messages repeatedly while diving. Having a set designed to communicate common instructions related to a specific activity, such as open water skill evaluations, can be very effective in keeping the activity well organized and ensuring completeness.
