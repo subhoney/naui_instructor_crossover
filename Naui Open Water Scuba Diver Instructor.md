@@ -721,3 +721,7 @@ A variation of the above, this method challenges the leader to quickly learn eac
 #### The Cattle Chute Approach
 
 This is the strictest method of entry control, but can cause real problems with efficiency, as previously noted. Physically checking each diver’s gear and air supply, and discussing the dive plan is probably only suitable when conducting initial training dives or when divers are obviously lacking experience and confidence.
+ 
+### Diver Retrieval
+
+In spite of pre-dive instructions, some divers may surface far from the vessel. Raising an arm with a clenched fist, holding one brightly colored fin overhead, or surface marker buoy are commonly used in-water signals to request a pick-up, and such signals should be reviewed before the dive.
