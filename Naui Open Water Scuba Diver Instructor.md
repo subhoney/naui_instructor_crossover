@@ -695,3 +695,29 @@ Appropriate water entry and exit techniques should be covered in the pre-dive br
 The following are recommendations for recovering lost gear. NAUI leaders should use their professional judgment to determine actual procedures to use at any dive site.
 
 A NAUI leader’s first consideration when gear is lost is determining whether any search is feasible or warranted, given the risk it can entail. Gear recovery dives are dives. Leaders must ensure that any dives undertaken conform to recommended diving practices, including depth and time exposure limits and profiles. Also, recovery divers must have an adequate air supply. No equipment is worth any injury, and NAUI leaders are obligated to strenuously discourage any divers who would assume increased risks to attempt a recovery.
+
+### Checking Divers In and Out
+
+While there is nothing wrong with tight physical control at the entry gate, such an approach often creates a lengthening line of increasingly cranky, overheated divers waiting their chance to get into the water. Many experienced recreational divers argue that methodically checking divers into the water, which can include testing every diver’s gear, or recording their dive plans on a clipboard is intrusive, but the same process may comfort newer divers. With these extremes in mind, leaders should consider creative, less obtrusive options that maintain effective control without such drawbacks.
+
+#### Cylinder Counts
+
+Before the day of diving begins, all cylinders (crews’ included) are placed on the deck, counted, and the number recorded. When the boat prepares to move to a new site, cylinders are recounted to see if everyone is aboard.
+Buddy Board
+Each diver has a plastic tag with his or her name or an assigned number or letter on it. Immediately before entering the water each diver hangs the tag on a convenient “entry board” with pegs or hooks. Upon exiting the water the diver removes his or her tag.
+
+#### Roll Call
+
+This is the most-used method to ensure divers are on board, but leaders are cautioned to advise all divers that they must answer for themselves.
+Open-Gate Entry, Stern Check-In
+This method works well when there is more than one diving leader aboard. After the pre-dive briefing, the dive gate(s) are open, and buddy teams enter the water when ready, while a staff member observes, ready to render assistance. Another staff member has the opportunity to walk the deck, observe and assist divers suiting up.
+
+As divers return to the boat, a leader is positioned near the return ladder, who, while still watching those in the water, checks the boarding divers in, eliciting any other required information, such as depth and bottom time figures.
+
+#### The Personal Touch
+
+A variation of the above, this method challenges the leader to quickly learn each diver’s name, a skill that grows with practice. At the end of the dive when passengers climb aboard, the leader personally approaches each diver, greeting them by name and asking about their dive. Customers usually appreciate and respond to this personal approach, sometimes tipping generously at the end of a trip. In any event, this kind of rapport will make the leader’s job much easier.
+
+#### The Cattle Chute Approach
+
+This is the strictest method of entry control, but can cause real problems with efficiency, as previously noted. Physically checking each diver’s gear and air supply, and discussing the dive plan is probably only suitable when conducting initial training dives or when divers are obviously lacking experience and confidence.
