@@ -501,3 +501,31 @@ Motivating divers usually involves helping them to behave in their own best inte
 
 1. Educating divers about our values and attitudes, fostering understanding and compliance through respect for knowledge;
 1. Behaving in an exemplary professional manner that supports NAUI’s commitment to safe diving and environmental conservation.
+
+### Rules, Policies, and Regulations
+
+Establishing and communicating clear guideposts for appropriate conduct is an important part of planning successful diving activities and essential to effectively motivating divers. Such guides can be divided into three distinct categories, each of which can be of particular use to NAUI leaders.
+
+#### Rules
+
+Rules can be established by anyone, and violations are commonly understood to have consequences. They are especially useful for maintaining order, and reinforcing learned behavior if they are:
+
+- Reasonable
+- Explained
+- Understood
+
+Agreed to by those affected.
+
+Instructors often use rules with constructive consequences to aid teaching and reinforce learning.
+
+#### Policies
+
+Policies are established procedures based on wisdom, knowledge, or good judgment, and are designed to facilitate or expedite some goal. They define the usual courses of action an individual or organization will follow or the conditions under which performance will occur. Policies should reflect prudence and appeal to reason and logic. Violations may generate social or personal disapproval, and/or violators may not be allowed to continue their participation until they conform to policies.
+
+Leaders can exercise discretion in setting the rules and policies for their activities. In fact, the NAUI Standards and Policies Manual is an example of policies. NAUI leaders voluntarily agree to abide by them while conducting leadership activities in order to remain members in good standing and continue to receive the benefits of the Association.
+
+#### Regulations
+
+Regulations are laws established by duly empowered authority. Compliance is not voluntary and punishments are prescribed for violations. Examples are U.S. Coast Guard regulations or city, provincial, state, and county laws, fish and game or environmental conservation laws or traffic codes. NAUI leaders are obligated to know and obey the laws that affect diving, should ensure that participants understand them, and should encourage compliance. NAUI members do not, however, enforce regulations; this job is reserved for authorized law enforcement personnel with legal jurisdiction.
+
+NAUI leaders must insist upon lawful behavior and should not tolerate lawbreaking. Divers who break the law should be told they have and discouraged from continuing. If necessary, report offenders to the authorities.
