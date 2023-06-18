@@ -689,3 +689,9 @@ The diving leader aboard may be responsible for the appropriate stowage and secu
 ### Entry and Exit Procedures
 
 Appropriate water entry and exit techniques should be covered in the pre-dive briefing. Suited buddy pairs, generally without fins on, make their way to the gate, do a final gear adjustment, put on their fins, and then are directed to make a stride or other entry. Upon returning, divers stabilize at the steps or ladder, and use the submerged rungs as anchor points from which to hand aboard gear to an assistant or divemaster.
+
+### Lost Gear Recovery
+
+The following are recommendations for recovering lost gear. NAUI leaders should use their professional judgment to determine actual procedures to use at any dive site.
+
+A NAUI leader’s first consideration when gear is lost is determining whether any search is feasible or warranted, given the risk it can entail. Gear recovery dives are dives. Leaders must ensure that any dives undertaken conform to recommended diving practices, including depth and time exposure limits and profiles. Also, recovery divers must have an adequate air supply. No equipment is worth any injury, and NAUI leaders are obligated to strenuously discourage any divers who would assume increased risks to attempt a recovery.
