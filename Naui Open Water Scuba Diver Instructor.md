@@ -725,3 +725,7 @@ This is the strictest method of entry control, but can cause real problems with 
 ### Diver Retrieval
 
 In spite of pre-dive instructions, some divers may surface far from the vessel. Raising an arm with a clenched fist, holding one brightly colored fin overhead, or surface marker buoy are commonly used in-water signals to request a pick-up, and such signals should be reviewed before the dive.
+
+### Open Water Training Dives from Boats
+
+Non-certified divers require a greater degree of observation and control than experienced divers, and can only dive under the supervision of an active-status instructor or qualified assistants, albeit at reduced ratio. The only exception to this policy occurs in the NAUI Scuba Diver course for the navigation exercise on the second or subsequent training dives and only after evaluating the required skills.
