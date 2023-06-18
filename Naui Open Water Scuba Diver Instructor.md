@@ -681,3 +681,7 @@ In addition to many of the common briefing elements listed previously, other tas
 - Boat orientation
 - Boat rules and procedures
 - Boat movement schedule: departure from dock, arrival at site, last dive entry, departure from site, arrival at dock.
+
+### Pre-departure Preparations
+
+The diving leader aboard may be responsible for the appropriate stowage and security of all diving equipment. Diving leaders should also review the day’s plan, as well as alternate plans and emergency boating and diving procedures with the captain and crew.
