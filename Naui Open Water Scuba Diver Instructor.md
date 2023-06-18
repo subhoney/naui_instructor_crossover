@@ -529,3 +529,13 @@ Leaders can exercise discretion in setting the rules and policies for their acti
 Regulations are laws established by duly empowered authority. Compliance is not voluntary and punishments are prescribed for violations. Examples are U.S. Coast Guard regulations or city, provincial, state, and county laws, fish and game or environmental conservation laws or traffic codes. NAUI leaders are obligated to know and obey the laws that affect diving, should ensure that participants understand them, and should encourage compliance. NAUI members do not, however, enforce regulations; this job is reserved for authorized law enforcement personnel with legal jurisdiction.
 
 NAUI leaders must insist upon lawful behavior and should not tolerate lawbreaking. Divers who break the law should be told they have and discouraged from continuing. If necessary, report offenders to the authorities.
+
+### Enforcement
+
+Like motivation, the primary enforcement methods available to NAUI leaders are effective education and their own behavior. By following rules and policies themselves and helping divers understand why such guides exist, NAUI leaders can gain cooperation. As with other potential diving problems, the best course of action to avoid enforcement issues is to anticipate and prevent them. Leaders are advised to make sure that divers understand requirements in advance, have the opportunity to discuss them, and thus make an informed choice about their participation.
+
+One method of doing this is to have divers sign a “Statement of Understanding” when signing up to participate in any NAUI activity. A sample statement of understanding and enrollment agreement is available to be downloaded via NAUI’s website.
+
+If a rule is violated, it is usually best to tell people immediately. Restate the management importance and tangible benefit of following the rule and request cooperation from that point on. Difficult though this may be, if the Activity Leader does not enforce rules and policies, they will soon become meaningless and of no value in controlling the group.
+
+Always try to avoid confrontation or embarrassment. Keep discussion of infractions neutral, informative and focused on the objectionable action, not the person’s character or behavior. Tact, diplomacy, and humor will often defuse tension that can result from efforts to regulate behavior.
