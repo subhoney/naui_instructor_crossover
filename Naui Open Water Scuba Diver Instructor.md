@@ -450,3 +450,41 @@ Leaders need to learn about weather, water conditions, and temperature at chosen
 Learning as much as possible about the people with whom one will be diving is important to effective leadership. NAUI leaders who have participated in a scuba class, for instance, will have grown familiar with the strengths and weaknesses of students before scheduling training dives, and can plan more efficiently. They will also have the benefit of having established their credibility and competence in the minds of participants. Such familiarity can help reduce student anxiety. No open water training dives should be conducted unless leaders are certain that students have received sufficient training to participate with minimal risk.
 
 Informal interviewing is an essential communication skill that makes planning and leading dives with unfamiliar people easier. Finding out about people’s prior dive experiences and training in a conversation is easy, but learning about how they feel about the current situation requires subtlety and time. NAUI leaders who frequently work with strangers should plan this time into their normal schedule. At a minimum, consider allowing enough time to review a person’s dive log or have a brief, one-on-one conversation before entering the water.
+
+### Planning for Emergencies
+
+Gathering information on appropriate emergency equipment and qualified emergency aid providers is part of every NAUI member’s planning process. Leaders planning diving excursions to remote areas should inform participants in advance of the risk any lack of emergency treatment facilities may potentially create, so that they may make an informed decision on their participation.
+
+Medical insurance and emergency contact information should be compiled from all participants. This can include a document granting permission to the NAUI member to initiate emergency treatment and activate local medical services in case a diver is unconscious.
+
+NAUI leaders would also be wise to urge participants to acquire diving medical insurance that will cover the costs of evacuation, recompression therapy and other medical treatment, transportation home, and hospitalization.Gathering information on appropriate emergency equipment and qualified emergency aid providers is part of every NAUI member’s planning process. Leaders planning diving excursions to remote areas should inform participants in advance of the risk any lack of emergency treatment facilities may potentially create, so that they may make an informed decision on their participation.
+
+Medical insurance and emergency contact information should be compiled from all participants. This can include a document granting permission to the NAUI member to initiate emergency treatment and activate local medical services in case a diver is unconscious.
+
+NAUI leaders would also be wise to urge participants to acquire diving medical insurance that will cover the costs of evacuation, recompression therapy and other medical treatment, transportation home, and hospitalization.
+
+### Organizing Staff and Participants
+
+Diving leaders must always confirm that there are sufficient staff available to properly conduct a diving event. Staff must be involved, organized, and assigned various responsibilities before the start of any activity. Staff positions may include an Activity Leader, Activity Divemaster, Dive Team Leaders, and various assistants. Roles are frequently combined, depending on the location, activity, group size, and participants’ experience. Larger groups and training activities usually require proportionally more staff.
+
+Participants should be made aware of staff members’ responsibilities and certification status. If uncertified trainees or non-leadership personnel are in staff positions, their roles especially should be clearly outlined to participants.
+
+#### Activity Leader
+
+The Activity Leader, usually an active-status instructor or divemaster, takes overall responsibility. The Activity Leader often initiates the activity through a class, or is put in charge by a store, club, or other diving services provider. To make the best use of available talent, an Activity Leader must recognize that different staff duties require different strengths. Concurrently, the Activity Leader must be ready to assume any staff role.
+
+#### Activity Divemaster
+
+The Activity Divemaster is responsible for maintaining the dive roster, taking roll, monitoring surface activities, advising participants, directing emergency response procedures, and working toward the efficient realization of the dive plan.
+
+Activity Divemasters should be certified divemasters or instructors with the ability and experience to monitor all dive activities.
+
+#### Dive Team Leader
+
+Grouping divers into teams is an efficient method of organization for activities with a large number of participants, such as found in resort settings or aboard weekend dive charter vessels. A team will usually consist of more than one buddy group. A designated Dive Team Leader (DTL) who serves as the teams’ representative should direct each team. DTLs should be familiar with the dive site, the divers, and the diving activity.
+
+There are many factors to be considered when assigning divers to teams: the planned activity, diver capabilities, equalization problems, physical ability, anxiety levels, and even domestic partner pairing. Every effort should be made to avoid forming dive teams with more than one marginal diver. Whenever possible, spread out less-capable divers among the teams so no one dive team has more than one diver who may require more than normal attention.
+
+#### Qualified Assistants
+
+When student numbers are too large in dive classes, qualified assistants may be used to create manageable dive teams or to bring student-instructor ratios within NAUI standards. A “qualified assistant” is an individual who has completed a designated NAUI course and registered with NAUI.
