@@ -635,3 +635,32 @@ In addition to standard underwater hand signals used by buddy teams, specialized
 Additional signals that might be useful at specific sites should also be included in briefings. These might include descriptive gestures for a particular feature of the dive, such as the deckhouse of a wreck, or the opening of a cavern, or the signals instructors use to request students perform various skills.
 
 Some leaders make up a set of easily read underwater flashcards to avoid having to write frequently used messages repeatedly while diving. Having a set designed to communicate common instructions related to a specific activity, such as open water skill evaluations, can be very effective in keeping the activity well organized and ensuring completeness.
+
+### Dive Briefings and Debriefings
+
+Briefings are the staple of directing all types of diving. They provide leaders their best opportunity to motivate good diving behavior, establish rapport with the group, and reiterate important safety information. Conducting a good dive briefing is an acquired artful skill that improves with practice.
+
+Briefings usually take place at the dive site before participants don exposure suits and gear so that they are relaxed and comfortable. Avoid positions that place the sun or other strong light sources directly in front of the group, because that too will distract the group’s attention and make eye contact difficult.
+
+Each briefing is like a mini-lesson review, and though they may often seem extemporaneous, careful leaders pay attention to the details they must include. Using a briefing outline with written notes. Rehearsing until thoroughly comfortable beforehand is highly recommended.
+
+All briefings have elements in common. These are:
+
+- Introductions: Self, any assistants, and professional medical personnel present.
+- Area and environmental orientation: Facilities, restrictions, terrain, depths, water movement, aquatic life, hazards, navigational features, alternate exit point(s), and diving conditions.
+- Activity schedule: General Schedule of activities, i.e., entry times, dive duration, depth limits, any planned events, maximum return time, time between dives, departure time, etc. Performance requirements for training dives.
+- Instructions: Dive preparation, pre-dive checks, entry and exit techniques, diving activities/skills, ascent procedures, buddy system procedures, post-dive procedures, limits on gas supply, depth or time, touring procedures and precautions – safety, conservation, and preservation.
+- Communications: Signals as needed, such as hand, recall, whistle, light, emergency, etc.
+- Emergency procedures: Chain of command, location of emergency equipment, and access to emergency services.
+- Questions and answers.
+
+During training, debriefings with the entire class are part of each dive. While this will generally be conducted by the instructor, assistants may debrief individuals or groups with the instructor’s permission and oversight. The following information is appropriate for the debriefing of a training dive:
+
+- Restatement of dive objectives.
+- Discussion of achievement and overall performance.
+- Recognition of good performance.
+- Identification of general problems.
+- Prevention/resolution of problems.
+- Key points to remember.
+- Questions and answers.
+- Repetitive dive table calculations; logging of dive(s).
