@@ -674,3 +674,10 @@ Divers should again be asked to inspect their own and their buddy’s equipment 
 ### Overseeing Boat Dives
 
 Most recreational diving is done from boats. Boats allow divers to venture far beyond the reaches of local coves and beaches. Charter dive boats offering single- and multiple-day excursions are commonplace, and knowledgeable leaders are in demand to oversee diving operations for certified diver customers. These divers have a wide range of experience, skill, and ability, and leaders working in these settings must be fully prepared to deal with that range.
+
+### Pre-departure Tasks
+
+In addition to many of the common briefing elements listed previously, other tasks and topics to address prior to departure include:
+- Boat orientation
+- Boat rules and procedures
+- Boat movement schedule: departure from dock, arrival at site, last dive entry, departure from site, arrival at dock.
