@@ -181,6 +181,10 @@
 		* 10.7.1. [Diver Unable to Clear Mask](#DiverUnabletoClearMask)
 		* 10.7.2. [Diver Unable to Clear Regulator](#DiverUnabletoClearRegulator)
 		* 10.7.3. [Poor Buoyancy Control](#PoorBuoyancyControl)
+	* 10.8. [Counseling](#Counseling)
+		* 10.8.1. [Reflective Listening](#ReflectiveListening)
+		* 10.8.2. [Maintaining Eye Contact](#MaintainingEyeContact)
+		* 10.8.3. [When Counseling Fails](#WhenCounselingFails)
 
 <!-- vscode-markdown-toc-config
 	numbering=true
@@ -1332,3 +1336,30 @@ Any diver experiencing difficulty drawing air from a regulator underwater is a c
 ####  10.7.3. <a name='PoorBuoyancyControl'></a>Poor Buoyancy Control
 
 Divers who are unable to control their buoyancy should be monitored closely. Depending on the area, such as when wall diving or where there are sharp drop-offs, leaders may have to signal divers to terminate the dive and accompany them to the surface to discuss the problem.
+
+###  10.8. <a name='Counseling'></a>Counseling
+
+A NAUI member’s goal in counseling is to help divers cope intelligently with diving-related problems they are experiencing, or may be causing. Counseling focuses on helping divers improve and enjoy safer diving through education about skills, practices, and abilities.
+
+Diving leaders’ behavior, attitude, and counseling efforts should indicate their genuine concerns for divers’ safety. Counseling research points to the caring relationship between the counselor and client as the most important factor in successful problem resolution. Considering this, it is important for divers to perceive leaders as concerned with their well-being, rather than in charge of their behavior.
+Nonjudgmental Attitude
+In order to effectively counsel divers and guide them towards recognizing and solving their own diving problems, leaders must be careful not to project disapproval or impatience, no matter how basic or seemingly insignificant the problem may appear.
+
+####  10.8.1. <a name='ReflectiveListening'></a>Reflective Listening
+
+An effective way to demonstrate sensitivity during counseling is reflective listening. When a person expresses a concept, leaders can show understanding by restating what the person has said. Examples include, “If I understand you correctly, you feel the problem is...,”,“Am I correct in assuming you feel the problem stems from...,” and “So you feel the best course of action is to...?”
+
+####  10.8.2. <a name='MaintainingEyeContact'></a>Maintaining Eye Contact
+
+Maintain eye contact with individuals during counseling, unless this seems to make them more stressed. Problems often embarrass an individual, and a person may misconstrue attention as accusation unless the leader is especially careful to react to the diver in a positive and friendly manner.
+
+Group Decision-Making and Intervention
+When a situation affects an entire group of divers, leaders have the option to consider alternative courses of action by themselves or in conjunction with others.
+
+Everyone does not have to agree completely with the plan, but all should contribute to its development and be able to support most of it. An effective leader must have the ability to make decisions and to lead discussions to obtain a consensus. This may be difficult in a situation where a few experienced divers must give way to the needs of a group of less experienced participants, yet the leader’s responsibility to help all divers present enjoy the activity makes this necessary.
+
+If a diver from your group engages in a breach of safety, discuss the issue with the individual privately. Do not use people in any dive group as bad examples, even if they exhibit unruly or uncooperative behavior.
+
+####  10.8.3. <a name='WhenCounselingFails'></a>When Counseling Fails
+
+Sometimes the most reasonable, well-meaning efforts to help guide divers to appropriate choices fail. NAUI leaders may not physically restrain anyone from diving or any other behavior, unless there will be definite physical injury or unequivocal harm to the individual or other persons or the leader’s professional responsibility to maintain safety standards is clearly compromised. In the unlikely event that this ever happens, for instance an obviously inebriated or otherwise temporarily impaired diver insisting on participating in a dive, or someone behaving in an overtly physically threatening way towards another, the responding leader should be prepared to document actions taken in writing with corroboration by witnesses.
