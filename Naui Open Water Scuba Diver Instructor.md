@@ -488,3 +488,9 @@ There are many factors to be considered when assigning divers to teams: the plan
 #### Qualified Assistants
 
 When student numbers are too large in dive classes, qualified assistants may be used to create manageable dive teams or to bring student-instructor ratios within NAUI standards. A “qualified assistant” is an individual who has completed a designated NAUI course and registered with NAUI.
+
+### Buddy Teams
+
+NAUI supports buddy diving as a routine practice and aid to safer diving. It is practiced in all NAUI training activities. An Activity Leader will definitely face liability problems in case of any mishap that might be even remotely attributed to the lack of a buddy if the buddy system was not endorsed and used when conducting dive(s).
+
+During recreational diving, Activity Leaders or Activity Divemasters encourage certified divers to select their own buddies. Though the two-person buddy team is most common, some diving specialty activities such as cave or wreck penetration may be best done in three-person teams. In training, NAUI Instructors must assign or approve students’ buddy choices.
