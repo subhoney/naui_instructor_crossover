@@ -576,3 +576,9 @@ Leaders should organize their personal items and diving equipment, the dive supp
 Additional preparation tasks include making a written briefing outline for the activity, preparing rosters, including possibly one on a waterproof slate, copying any required forms, compiling emergency contact information, and making final confirmation phone calls to ensure that the emergency telephone numbers you have are current and working.
 
 One of the most important results of careful preparation is increased confidence for all. Participants with organized and complete information will be more confident in their ability to cope, and they will be much more confident in the ability of a thorough, organized leader. Relaxed, confident divers and leaders will enjoy the event more, and carefully planned, well prepared activities are much more likely to proceed without mishap than unprofessional, ad hoc affairs.
+
+## Conducting Diving Activities
+
+### Introduction
+
+Whether in charge as a divemaster or instructor or assisting another leader, conducting safe, enjoyable dives is a basic goal and primary activity of NAUI members.
