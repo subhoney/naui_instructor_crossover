@@ -412,3 +412,31 @@ Its corollary for diving leadership is:
 > If you fail to plan, you plan to fail.
 
 Planning helps minimize the chance for errors by anticipating variables that might affect the event’s success. It includes deciding what needs to be done in every eventuality and how best to do it. Some of these are best accomplished well in advance, while others may be modified at the moment. They all affect one another and contribute to a dive’s success.
+
+### Principal Steps of Planning
+
+- Decide objectives.
+- Recognize staff and student or diver needs.
+- dentify equipment requirements.
+- Schedule location, date, and time.
+- Gather information.
+
+#### Establishing Objectives
+
+The first step in planning a supervised activity is to review the dive’s objectives, bearing in mind that the primary objective is always safe and enjoyable participation by all.
+
+#### Organizing Staff
+
+Staffing first means identifying what roles must be filled to accomplish the dive’s objectives, and engaging people qualified to assist. Leaders must be able to judge the ability of their support personnel, motivate them and utilize them effectively. Staff must understand that they are expected to act professionally and are assuming responsibilities under the leader’s direction. The ultimate responsibility for the actions of diving staff rests with the leader in charge of the activity.
+
+Certified assistant instructors, divemasters, skin diving instructors, or leadership trainees helping with instruction should realize that the responsibility for planning is the instructor’s, but their involvement can be mutually beneficial. They will learn a great deal from the instructor, and most NAUI Instructors will recognize that assisting staff can provide helpful reminders and suggestions.
+
+#### Identifying Equipment Requirements
+
+While all dives will require certain equipment in common, some activities require specialized gear. Acquiring and checking these items and ensuring that staff is familiar with their function and use are important parts of planning. Specialty training dives, technical dives, research dives, and night dives, for example, each require some unique equipment.
+
+#### Scheduling the Activity
+
+Scheduling often identifies uncontrollable problems or timing conflicts. These may be minimized with forethought, but the best plan can fail due to natural or accidental circumstances. Variables such as weather, site conditions, engine breakdown, and the like can all have effects.
+
+Whenever possible, an alternate dive site plan should exist in case the primary choice is somehow unsuitable. There will, however, be days when the only good choice is to postpone an activity. Leaders should have an alternate day scheduled, and divers should know if this possibility exists in advance. The contingency plans in these cases should include the possibility of refunds or future credit. Also consider that if the target dive location is a known to be unpredictable and alternative locations are not an option, it may be wiser to promote the excursion as a “great day at the beach” with scuba diving as a bonus – conditions permitting.
