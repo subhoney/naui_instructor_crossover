@@ -417,7 +417,7 @@ Planning helps minimize the chance for errors by anticipating variables that mig
 
 - Decide objectives.
 - Recognize staff and student or diver needs.
-- dentify equipment requirements.
+- Identify equipment requirements.
 - Schedule location, date, and time.
 - Gather information.
 
