@@ -53,6 +53,31 @@
     - 5.10.1. [Category #1: Swimming Skills](#Category1:SwimmingSkills)
     - 5.10.2. [Category #2: Skin Diving Skills](#Category2:SkinDivingSkills)
     - 5.10.3. [Category #3: Scuba Diving Skills](#Category3:ScubaDivingSkills)
+  - 5.11. [Preparatory Training](#PreparatoryTraining)
+  - 5.12. [Academics](#Academics)
+- 6. [Planning and Organizing Dives](#PlanningandOrganizingDives)
+  - 6.1. [Planning](#Planning)
+  - 6.2. [Principal Steps of Planning](#PrincipalStepsofPlanning)
+    - 6.2.1. [Establishing Objectives](#EstablishingObjectives)
+    - 6.2.2. [Organizing Staff](#OrganizingStaff)
+    - 6.2.3. [Identifying Equipment Requirements](#IdentifyingEquipmentRequirements)
+    - 6.2.4. [Scheduling the Activity](#SchedulingtheActivity)
+  - 6.3. [Evaluating Diving Conditions](#EvaluatingDivingConditions)
+  - 6.4. [Knowing Dive Participants](#KnowingDiveParticipants)
+  - 6.5. [Planning for Emergencies](#PlanningforEmergencies)
+  - 6.6. [Organizing Staff and Participants](#OrganizingStaffandParticipants)
+    - 6.6.1. [Activity Leader](#ActivityLeader)
+    - 6.6.2. [Activity Divemaster](#ActivityDivemaster)
+    - 6.6.3. [Dive Team Leader](#DiveTeamLeader)
+    - 6.6.4. [Qualified Assistants](#QualifiedAssistants)
+  - 6.7. [Buddy Teams](#BuddyTeams)
+  - 6.8. [Motivating Divers](#MotivatingDivers)
+  - 6.9. [Rules, Policies, and Regulations](#RulesPoliciesandRegulations)
+    - 6.9.1. [Rules](#Rules)
+    - 6.9.2. [Policies](#Policies)
+    - 6.9.3. [Regulations](#Regulations)
+  - 6.10. [Enforcement](#Enforcement)
+  - 6.11. [Preparation](#Preparation)
 
 <!-- vscode-markdown-toc-config
 	numbering=true
@@ -389,19 +414,19 @@ These are performed in suitable confined water, wearing a complete scuba unit in
 1. Becoming completely comfortable with each part through repetitive practice.
 1. Polishing your performance to “demonstration quality.”
 
-### Preparatory Training
+### 5.11. <a name='PreparatoryTraining'></a>Preparatory Training
 
 Your success in a NAUI ITC will be directly related to the amount of leadership ability you have acquired through experience and formal training. Prior certification, and especially field activity as a NAUI Assistant Instructor, Skin Diving Instructor, or Divemaster is the best type of preliminary training you can get. By progressing up the certification ladder, continually refining your knowledge and ability as you learn from professional NAUI Instructors, you will learn about leadership.
 
-### Academics
+### 5.12. <a name='Academics'></a>Academics
 
 It is a NAUI tenet that we strive to know more than we teach. NAUI Instructors regularly help others develop an understanding of the practical applications and effects of various scientific principles related to recreational diving. Instructors must be able to effectively tutor in disciplines as diverse as the basic computational skills needed for dive planning to foster an understanding of basic cardiopulmonary function. All such instruction is aimed at the level needed to help divers and students make better diving decisions and minimize their potential risk while learning and diving.
 
 It is therefore necessary to gain the skills necessary to teach in scuba-specialized areas of academics. Your ITC will help you develop teaching ability, but it is important that you be prepared in advance to make the most of the instruction you will receive.
 
-## Planning and Organizing Dives
+## 6. <a name='PlanningandOrganizingDives'></a>Planning and Organizing Dives
 
-### Planning
+### 6.1. <a name='Planning'></a>Planning
 
 Every diver has heard the axiom:
 
@@ -413,7 +438,7 @@ Its corollary for diving leadership is:
 
 Planning helps minimize the chance for errors by anticipating variables that might affect the event’s success. It includes deciding what needs to be done in every eventuality and how best to do it. Some of these are best accomplished well in advance, while others may be modified at the moment. They all affect one another and contribute to a dive’s success.
 
-### Principal Steps of Planning
+### 6.2. <a name='PrincipalStepsofPlanning'></a>Principal Steps of Planning
 
 - Decide objectives.
 - Recognize staff and student or diver needs.
@@ -421,37 +446,37 @@ Planning helps minimize the chance for errors by anticipating variables that mig
 - Schedule location, date, and time.
 - Gather information.
 
-#### Establishing Objectives
+#### 6.2.1. <a name='EstablishingObjectives'></a>Establishing Objectives
 
 The first step in planning a supervised activity is to review the dive’s objectives, bearing in mind that the primary objective is always safe and enjoyable participation by all.
 
-#### Organizing Staff
+#### 6.2.2. <a name='OrganizingStaff'></a>Organizing Staff
 
 Staffing first means identifying what roles must be filled to accomplish the dive’s objectives, and engaging people qualified to assist. Leaders must be able to judge the ability of their support personnel, motivate them and utilize them effectively. Staff must understand that they are expected to act professionally and are assuming responsibilities under the leader’s direction. The ultimate responsibility for the actions of diving staff rests with the leader in charge of the activity.
 
 Certified assistant instructors, divemasters, skin diving instructors, or leadership trainees helping with instruction should realize that the responsibility for planning is the instructor’s, but their involvement can be mutually beneficial. They will learn a great deal from the instructor, and most NAUI Instructors will recognize that assisting staff can provide helpful reminders and suggestions.
 
-#### Identifying Equipment Requirements
+#### 6.2.3. <a name='IdentifyingEquipmentRequirements'></a>Identifying Equipment Requirements
 
 While all dives will require certain equipment in common, some activities require specialized gear. Acquiring and checking these items and ensuring that staff is familiar with their function and use are important parts of planning. Specialty training dives, technical dives, research dives, and night dives, for example, each require some unique equipment.
 
-#### Scheduling the Activity
+#### 6.2.4. <a name='SchedulingtheActivity'></a>Scheduling the Activity
 
 Scheduling often identifies uncontrollable problems or timing conflicts. These may be minimized with forethought, but the best plan can fail due to natural or accidental circumstances. Variables such as weather, site conditions, engine breakdown, and the like can all have effects.
 
 Whenever possible, an alternate dive site plan should exist in case the primary choice is somehow unsuitable. There will, however, be days when the only good choice is to postpone an activity. Leaders should have an alternate day scheduled, and divers should know if this possibility exists in advance. The contingency plans in these cases should include the possibility of refunds or future credit. Also consider that if the target dive location is a known to be unpredictable and alternative locations are not an option, it may be wiser to promote the excursion as a “great day at the beach” with scuba diving as a bonus – conditions permitting.
 
-### Evaluating Diving Conditions
+### 6.3. <a name='EvaluatingDivingConditions'></a>Evaluating Diving Conditions
 
 Leaders need to learn about weather, water conditions, and temperature at chosen dive sites. The best way to obtain accurate information about a planned diving area is to combine research with an advance visit. Short of an extra visit, leaders should plan to arrive at sites well in advance of participants to “scout.” If you must escort the group, talk to other leaders and divers who have been to the site recently.
 
-### Knowing Dive Participants
+### 6.4. <a name='KnowingDiveParticipants'></a>Knowing Dive Participants
 
 Learning as much as possible about the people with whom one will be diving is important to effective leadership. NAUI leaders who have participated in a scuba class, for instance, will have grown familiar with the strengths and weaknesses of students before scheduling training dives, and can plan more efficiently. They will also have the benefit of having established their credibility and competence in the minds of participants. Such familiarity can help reduce student anxiety. No open water training dives should be conducted unless leaders are certain that students have received sufficient training to participate with minimal risk.
 
 Informal interviewing is an essential communication skill that makes planning and leading dives with unfamiliar people easier. Finding out about people’s prior dive experiences and training in a conversation is easy, but learning about how they feel about the current situation requires subtlety and time. NAUI leaders who frequently work with strangers should plan this time into their normal schedule. At a minimum, consider allowing enough time to review a person’s dive log or have a brief, one-on-one conversation before entering the water.
 
-### Planning for Emergencies
+### 6.5. <a name='PlanningforEmergencies'></a>Planning for Emergencies
 
 Gathering information on appropriate emergency equipment and qualified emergency aid providers is part of every NAUI member’s planning process. Leaders planning diving excursions to remote areas should inform participants in advance of the risk any lack of emergency treatment facilities may potentially create, so that they may make an informed decision on their participation.
 
@@ -463,50 +488,50 @@ Medical insurance and emergency contact information should be compiled from all 
 
 NAUI leaders would also be wise to urge participants to acquire diving medical insurance that will cover the costs of evacuation, recompression therapy and other medical treatment, transportation home, and hospitalization.
 
-### Organizing Staff and Participants
+### 6.6. <a name='OrganizingStaffandParticipants'></a>Organizing Staff and Participants
 
 Diving leaders must always confirm that there are sufficient staff available to properly conduct a diving event. Staff must be involved, organized, and assigned various responsibilities before the start of any activity. Staff positions may include an Activity Leader, Activity Divemaster, Dive Team Leaders, and various assistants. Roles are frequently combined, depending on the location, activity, group size, and participants’ experience. Larger groups and training activities usually require proportionally more staff.
 
 Participants should be made aware of staff members’ responsibilities and certification status. If uncertified trainees or non-leadership personnel are in staff positions, their roles especially should be clearly outlined to participants.
 
-#### Activity Leader
+#### 6.6.1. <a name='ActivityLeader'></a>Activity Leader
 
 The Activity Leader, usually an active-status instructor or divemaster, takes overall responsibility. The Activity Leader often initiates the activity through a class, or is put in charge by a store, club, or other diving services provider. To make the best use of available talent, an Activity Leader must recognize that different staff duties require different strengths. Concurrently, the Activity Leader must be ready to assume any staff role.
 
-#### Activity Divemaster
+#### 6.6.2. <a name='ActivityDivemaster'></a>Activity Divemaster
 
 The Activity Divemaster is responsible for maintaining the dive roster, taking roll, monitoring surface activities, advising participants, directing emergency response procedures, and working toward the efficient realization of the dive plan.
 
 Activity Divemasters should be certified divemasters or instructors with the ability and experience to monitor all dive activities.
 
-#### Dive Team Leader
+#### 6.6.3. <a name='DiveTeamLeader'></a>Dive Team Leader
 
 Grouping divers into teams is an efficient method of organization for activities with a large number of participants, such as found in resort settings or aboard weekend dive charter vessels. A team will usually consist of more than one buddy group. A designated Dive Team Leader (DTL) who serves as the teams’ representative should direct each team. DTLs should be familiar with the dive site, the divers, and the diving activity.
 
 There are many factors to be considered when assigning divers to teams: the planned activity, diver capabilities, equalization problems, physical ability, anxiety levels, and even domestic partner pairing. Every effort should be made to avoid forming dive teams with more than one marginal diver. Whenever possible, spread out less-capable divers among the teams so no one dive team has more than one diver who may require more than normal attention.
 
-#### Qualified Assistants
+#### 6.6.4. <a name='QualifiedAssistants'></a>Qualified Assistants
 
 When student numbers are too large in dive classes, qualified assistants may be used to create manageable dive teams or to bring student-instructor ratios within NAUI standards. A “qualified assistant” is an individual who has completed a designated NAUI course and registered with NAUI.
 
-### Buddy Teams
+### 6.7. <a name='BuddyTeams'></a>Buddy Teams
 
 NAUI supports buddy diving as a routine practice and aid to safer diving. It is practiced in all NAUI training activities. An Activity Leader will definitely face liability problems in case of any mishap that might be even remotely attributed to the lack of a buddy if the buddy system was not endorsed and used when conducting dive(s).
 
 During recreational diving, Activity Leaders or Activity Divemasters encourage certified divers to select their own buddies. Though the two-person buddy team is most common, some diving specialty activities such as cave or wreck penetration may be best done in three-person teams. In training, NAUI Instructors must assign or approve students’ buddy choices.
 
-### Motivating Divers
+### 6.8. <a name='MotivatingDivers'></a>Motivating Divers
 
 Motivating divers usually involves helping them to behave in their own best interests. NAUI leaders are generally best able to motivate divers by a combination of “show and tell.” Remember that actions are based on attitudes that are based, in turn, on values: people ascribe worth to certain ideas and act accordingly. Remember, as well, that much behavior is learned by observing others and leaders are, by their position, highly visible. We can extrapolate from these ideas the two main motivational tools NAUI leaders can use:
 
 1. Educating divers about our values and attitudes, fostering understanding and compliance through respect for knowledge;
 1. Behaving in an exemplary professional manner that supports NAUI’s commitment to safe diving and environmental conservation.
 
-### Rules, Policies, and Regulations
+### 6.9. <a name='RulesPoliciesandRegulations'></a>Rules, Policies, and Regulations
 
 Establishing and communicating clear guideposts for appropriate conduct is an important part of planning successful diving activities and essential to effectively motivating divers. Such guides can be divided into three distinct categories, each of which can be of particular use to NAUI leaders.
 
-#### Rules
+#### 6.9.1. <a name='Rules'></a>Rules
 
 Rules can be established by anyone, and violations are commonly understood to have consequences. They are especially useful for maintaining order, and reinforcing learned behavior if they are:
 
@@ -518,19 +543,19 @@ Agreed to by those affected.
 
 Instructors often use rules with constructive consequences to aid teaching and reinforce learning.
 
-#### Policies
+#### 6.9.2. <a name='Policies'></a>Policies
 
 Policies are established procedures based on wisdom, knowledge, or good judgment, and are designed to facilitate or expedite some goal. They define the usual courses of action an individual or organization will follow or the conditions under which performance will occur. Policies should reflect prudence and appeal to reason and logic. Violations may generate social or personal disapproval, and/or violators may not be allowed to continue their participation until they conform to policies.
 
 Leaders can exercise discretion in setting the rules and policies for their activities. In fact, the NAUI Standards and Policies Manual is an example of policies. NAUI leaders voluntarily agree to abide by them while conducting leadership activities in order to remain members in good standing and continue to receive the benefits of the Association.
 
-#### Regulations
+#### 6.9.3. <a name='Regulations'></a>Regulations
 
 Regulations are laws established by duly empowered authority. Compliance is not voluntary and punishments are prescribed for violations. Examples are U.S. Coast Guard regulations or city, provincial, state, and county laws, fish and game or environmental conservation laws or traffic codes. NAUI leaders are obligated to know and obey the laws that affect diving, should ensure that participants understand them, and should encourage compliance. NAUI members do not, however, enforce regulations; this job is reserved for authorized law enforcement personnel with legal jurisdiction.
 
 NAUI leaders must insist upon lawful behavior and should not tolerate lawbreaking. Divers who break the law should be told they have and discouraged from continuing. If necessary, report offenders to the authorities.
 
-### Enforcement
+### 6.10. <a name='Enforcement'></a>Enforcement
 
 Like motivation, the primary enforcement methods available to NAUI leaders are effective education and their own behavior. By following rules and policies themselves and helping divers understand why such guides exist, NAUI leaders can gain cooperation. As with other potential diving problems, the best course of action to avoid enforcement issues is to anticipate and prevent them. Leaders are advised to make sure that divers understand requirements in advance, have the opportunity to discuss them, and thus make an informed choice about their participation.
 
@@ -540,7 +565,7 @@ If a rule is violated, it is usually best to tell people immediately. Restate th
 
 Always try to avoid confrontation or embarrassment. Keep discussion of infractions neutral, informative and focused on the objectionable action, not the person’s character or behavior. Tact, diplomacy, and humor will often defuse tension that can result from efforts to regulate behavior.
 
-### Preparation
+### 6.11. <a name='Preparation'></a>Preparation
 
 Preparation includes preparing final briefings for staff and participants and otherwise ensuring that everything from gear to people is ready. Two excellent ways to prepare are with the use of checklists and by distributing fact sheets and printed instructions. Checklists are extremely useful memory aids for diving leaders, staff, or divers (samples for dive briefings and debriefings are contained in the NAUI Risk Management Handbook). Fact sheets help avoid misunderstanding and reduce repetitive questions.
 
