@@ -286,6 +286,56 @@
     - 14.3.2. [Streamlining](#Streamlining)
     - 14.3.3. [Correct Finning](#CorrectFinning)
   - 14.4. [Marine Conservation Activities](#MarineConservationActivities)
+- 15. [Learning and Teaching](#LearningandTeaching)
+  - 15.1. [Testing, Evaluation and Achievement](#TestingEvaluationandAchievement)
+  - 15.2. [E-Learning](#E-Learning)
+  - 15.3. [Class Focus](#ClassFocus)
+  - 15.4. [The Laws of Learning](#TheLawsofLearning)
+  - 15.5. [Factors that Enhance Learning](#FactorsthatEnhanceLearning)
+    - 15.5.1. [Oral Communication](#OralCommunication)
+    - 15.5.2. [Preparing to Communicate](#PreparingtoCommunicate)
+  - 15.6. [Getting Started](#GettingStarted)
+  - 15.7. [Using the Tools of the Trade](#UsingtheToolsoftheTrade)
+  - 15.8. [Training Aids](#TrainingAids)
+  - 15.9. [Empathy](#Empathy)
+  - 15.10. [Goals and Motivation](#GoalsandMotivation)
+  - 15.11. [Reinforcement](#Reinforcement)
+  - 15.12. [Pacing](#Pacing)
+  - 15.13. [Continuity](#Continuity)
+  - 15.14. [Relatxation and Performance](#RelatxationandPerformance)
+  - 15.15. [Physical Awareness and Sensitivity](#PhysicalAwarenessandSensitivity)
+  - 15.16. [Physical Surroundings](#PhysicalSurroundings)
+  - 15.17. [Anxiety and Fear](#AnxietyandFear)
+  - 15.18. [Effective Methodology](#EffectiveMethodology)
+    - 15.18.1. [Water Class Management](#WaterClassManagement)
+    - 15.18.2. [Surface Teaching](#SurfaceTeaching)
+  - 15.19. [Evaluating and Teaching Swimming Skills](#EvaluatingandTeachingSwimmingSkills)
+    - 15.19.1. [Crawl Stroke](#CrawlStroke)
+    - 15.19.2. [Breaststroke](#Breaststroke)
+    - 15.19.3. [Elementary Backstroke](#ElementaryBackstroke)
+    - 15.19.4. [Sidestroke](#Sidestroke)
+  - 15.20. [Underwater Teaching](#UnderwaterTeaching)
+  - 15.21. [Progression](#Progression)
+  - 15.22. [Exercises](#Exercises)
+  - 15.23. [Skills Demonstration](#SkillsDemonstration)
+    - 15.23.1. [Using Demonstrations Well](#UsingDemonstrationsWell)
+    - 15.23.2. [Demonstration Quality Skills](#DemonstrationQualitySkills)
+  - 15.24. [Camaraderie and Competition](#CamaraderieandCompetition)
+  - 15.25. [Imagining and Self-Concept](#ImaginingandSelf-Concept)
+  - 15.26. [Lesson Planning](#LessonPlanning)
+  - 15.27. [Establishing Objectives](#EstablishingObjectives-1)
+  - 15.28. [Classroom Preparation](#ClassroomPreparation)
+    - 15.28.1. [Subordinate Steps: Prepare the Introduction](#SubordinateSteps:PreparetheIntroduction)
+    - 15.28.2. [Subordinate Steps: Prepare the Summary](#SubordinateSteps:PreparetheSummary)
+    - 15.28.3. [Subordinate Steps: Prepare the Lesson Evaluation](#SubordinateSteps:PreparetheLessonEvaluation)
+    - 15.28.4. [Subordinate Steps: Prepare the lesson plan](#SubordinateSteps:Preparethelessonplan)
+  - 15.29. [Confined Water Preparation](#ConfinedWaterPreparation)
+    - 15.29.1. [Sample Confined Water Session Outline](#SampleConfinedWaterSessionOutline)
+    - 15.29.2. [Steps of Confined Water Lesson Preparation](#StepsofConfinedWaterLessonPreparation)
+  - 15.30. [Open Water Training](#OpenWaterTraining)
+    - 15.30.1. [Sample Open Water Session Outline](#SampleOpenWaterSessionOutline)
+    - 15.30.2. [Steps of Open Water Session Preparation](#StepsofOpenWaterSessionPreparation)
+  - 15.31. [Summary](#Summary)
 
 <!-- vscode-markdown-toc-config
 	numbering=true
@@ -2122,3 +2172,375 @@ NAUI leaders can incorporate a “mini” cleanup in many dives. Prizes may be g
 In response to the growing threats to fragile marine ecosystems, the United States Congress created the National Marine Sanctuary Program (NMSP) in 1972. This program is designed to protect and promote national areas of historic, scientific, and ecological significance for research, education, management and preservation.
 
 Support the NAUI Environmental Enrichment Award Program. The award is annually presented to an individual and/or organization for achievements in environmental conservation. The award is for work that has caused an important and recognizable improvement in the aquatic environment, provides significant protection for the aquatic environment, or educates and inspires others to protect and conserve the aquatic environment.
+
+## 15. <a name='LearningandTeaching'></a>Learning and Teaching
+
+All NAUI leaders instruct divers, whether in the role of primary or sole instructor, or by assisting in a class, conducting diving excursions, or guest teaching segments of certification courses. A diving leader’s behavior and perceived attitudes are also profound instructional tools.
+
+In psychology learning is defined as an identifiable/observable change in an individual’s behavior or attitude that is the result of either outside stimulation, or the re-synthesis of previously acquired information. NAUI has defined it succinctly as, “a change in behavior based on experience.”
+
+In 1956 Bloom headed a group of behavioral psychologists who developed a learning/teaching taxonomy that identified three overlapping domains of intellectual behavior important in the learning process. The domains were identified as the cognitive (knowledge), affective (attitude) and psychomotor (physical skills).
+
+The primary purpose of NAUI leadership and instructor training is to produce new members who have learned to lead and teach, thereby providing the basis by which graduates can effectively lead any dive activity or teach any subject in which they have experience and competence.
+
+### 15.1. <a name='TestingEvaluationandAchievement'></a>Testing, Evaluation and Achievement
+
+Skill evaluations, review of workbook assignments, and written tests are integral to the training process and are fundamental tools used to achieve over-learning–the concept underlying NAUI’s training system. Over-learning is rooted in the observation that the complex physical skills and diverse ideas of diving knowledge are best acquired by students who learn, practice, and develop techniques over time, and then continue to use and expand their knowledge throughout their training. Final written exams should be reviewed as well, and students who were unable to pass should receive a review of the subject areas in which they are weak rather than of the exam items answered incorrectly, because they will need to retest in order to graduate.
+
+Published minimum standards aid the evaluation process by providing students a concrete performance benchmark and a guide for instructors to use in making certification decisions. Though minimum standards exist to clarify basic, essential course goals and set certification requirements, NAUI’s most enduring standard is our members’ commitment to excellence.
+
+### 15.2. <a name='E-Learning'></a>E-Learning
+
+(keyword: elearning)
+
+In 2010, NAUI introduced its eLearning product/platform - Interactive Learning Media (ILM) - that delivers the academic content of its courses over the internet with an interactive design available in over sixty languages providing immediate performance feedback and high definition full screen video.
+
+NAUI eLearning is able to enroll students, track their training progress, maintain records, and ultimately register them as graduates. Virtually everything is accessible 24/7 to both student and instructor/retailer via the “cloud” provided by NAUI servers.
+
+The eLearning system was designed to preserve the direct and primary relationship between NAUI’s members/affiliated retailers and their students/customers. The profile that they create upon enrolling requires that they identify a NAUI Dive Center/Trainer to access course content.
+
+The eLearning system increases the students’ knowledge and course enjoyment. Combined with the quality skills training they receive in confined and open water, eLearning is a powerful tool promoting dive safety through education.
+
+### 15.3. <a name='ClassFocus'></a>Class Focus
+
+The most important person in any diving class is the student, just as divers are the most important participants at any dive event. An instructor’s primary goal is to help students become successful divers in the most beneficial and enjoyable way possible. Concurrently, all NAUI members strive to foster safer, more enjoyable and environmentally sensitive diving.
+
+### 15.4. <a name='TheLawsofLearning'></a>The Laws of Learning
+
+Each individual learns differently, but all learning activities do have certain common factors. Remember the acronym P.I.E.R.R.E.
+
+- PRIMACY: First learned is best remembered.
+  - A lesson or skill should be taught correctly the first time. First impressions are usually the most powerful and influential.
+- INTENSITY: Increased sensory input increases learning.
+  - Using oral plus visual communication increases learning and retention over a lesson delivered in a pure lecture format with students passively listening. Vivid, entertaining word images, imaginative training aids, and dramatic presentations and demonstrations enhance student enjoyment and improve learning.
+- EFFECT: The best learning is real and useful and thereby satisfying to the student.
+  - Students who know that what they are learning enables them to do something tangible, such as solve a problem or perform a task they want to accomplish, will retain more and be more motivated to progress.
+- READINESS: Students will learn best when physically and mentally ready.
+- RECENCY: That which is most recently learned is more easily recalled.
+  - Summarizing presentations and emphasizing key points improves student learning. Restating learning objectives in question form at the end of classroom presentations is a common technique that can accomplish both.
+- EXERCISE: Skills are only truly learned through participation and practice.
+  - Learning, whether it is primarily attitude, skills, or knowledge, will be strengthened by repetition. When primarily teaching a physical skill and depending on its complexity, a sequence of motions must be performed correctly many times, perhaps hundreds of times, before the muscles “learn” to perform them automatically and properly upon demand. This learning is referred to as kinesthetic awareness.
+
+### 15.5. <a name='FactorsthatEnhanceLearning'></a>Factors that Enhance Learning
+
+#### 15.5.1. <a name='OralCommunication'></a>Oral Communication
+
+Leaders and teachers need to develop their oral communication skills and become effective public speakers to achieve success. NAUI leaders are well known for their public speaking and oral communication prowess, and many have enjoyed significant career advancement and benefit from acquiring their oral communications skills in NAUI leadership training. Whether one is delivering a lesson on scuba equipment or a pre-dive briefing, good communication skills will improve the outcome.
+
+#### 15.5.2. <a name='PreparingtoCommunicate'></a>Preparing to Communicate
+
+Whether you are using a lesson plan provided in the NAUI instructor guides or one you have modified or created, review it and ensure that you are completely familiar with the material and its organization.
+
+Preparing to communicate is also about getting yourself and the facility ready. Arrive early enough that you can arrange the facility properly. Arriving early also gives you time to orient yourself to an unfamiliar facility so that you can have things comfortable and appropriately lighted.
+
+### 15.6. <a name='GettingStarted'></a>Getting Started
+
+Reward those who arrive on schedule out of respect for their time. Start on time! Consistently starting on time will reduce tardiness because people begin to expect it, and your timeliness will reinforce their expectations.
+
+Try to avoid hackneyed opening lines like, “Tonight I’d like to talk about.” Use an attention getting method such as asking a provocative question that is related to the subject of your presentation or revealing an eye-catching training aid. It takes a little more imagination, but the results are usually a more attentive and ultimately better-satisfied audience. Once again, look to the NAUI instructor guides, in instructor notes under Attention Step in the lesson guides for some sample openers. Another common mistake to avoid is making excuses or drawing attention to something by apologizing for it. Chances are the audience never would have noticed your error if you hadn’t said something.
+
+### 15.7. <a name='UsingtheToolsoftheTrade'></a>Using the Tools of the Trade
+
+Effective speakers use their voices in different ways to gain and maintain attention. They understand the three “P’s.” These are pitch, pace, and pause, and all can be used for dramatic effect.
+
+Pitch or tone is important because if we don’t vary it during a presentation we will be heard as a dreaded monotone. Varying pitch is called inflection. By vocalizing words or phrases with inflection we vary the perceived meaning. In some languages precisely the same word spoken with a different inflection entirely changes its meaning.
+
+The pace of a presentation is largely determined by the needs of the audience and, to a lesser degree, the subject matter. Students must be able to process what is being presented and take notes on key points, so too fast a pace can be counterproductive.
+
+When you ask students a question during a lesson, wait a few seconds to allow all the students to form an answer and then call on someone for the answer. In this way you pause and gain maximum effect, but wait too long and someone, usually the class “know it all,” will blurt out the answer before you can control the process. Pauses can also be used to add impact and drama to a particular fact or statement.
+
+Profanity is always inappropriate in a professional presentation and should be avoided. Scanning your audience is a technique that good teachers use to manage things like pacing and answer questions that may go unasked without coaxing.
+
+Regularly asking questions about the subject of the presentation is also a good way to get and keep students involved in the lesson. By promoting student involvement through questioning you encourage students to be active participants in the learning process. Even if you can only involve one student at a time, this provides vicarious experience for others, which is preferable to passivity.
+
+Establishing and developing rapport with your students is an ongoing process involving subtle efforts. Moving naturally around the room increases your opportunity to build rapport, while nervously pacing will distract from your presentation. Not only is it wise to avoid getting stuck behind a lectern, it is a good practice to remove any physical barriers between you and your students, such as a big desk in the front of the room. Arrange tables so that there are aisles down which you can stroll as you work with the group. Learning and using your students’ names early on also helps build rapport and raise the perceived quality of your presentation. In large classes, or when concurrent smaller ones are combined for presentations, a seating chart is a classic and effective tool to aid in learning and using names.
+
+Don’t be afraid to insert a little humor into your lessons. It helps to break the tension and can serve to enhance recall if related to the subject being studied. However, in most cases, unless humor is related to the subject it becomes gratuitous and contravening.
+
+Eye contact with your audience cannot be overemphasized. Not only is eye contact a critical rapport-building factor, it also provides immediate feedback and helps you to maintain control of students.
+
+Publicly praising your students’ performance will also build rapport. Conversely, when you must discipline or chastise someone, it is better done privately.
+Be honest with your audience, and answer their questions. If you do not know an answer to a student’s question, admit it, promise to research it, and be sure to follow through at the first opportunity.
+
+Be respectful of your students’ time and commitments. You owe it to them to be organized and well prepared and to start and finish on time.
+
+Open and effective communication is a foremost factor in learning, and a key to an enjoyable learning experience. In a classroom setting, the most effective teaching communication combines showing and explaining.
+
+### 15.8. <a name='TrainingAids'></a>Training Aids
+
+Training aids are primarily used to reinforce a point, and can increase retention of material presented, clarify abstract concepts, and foster higher levels of class participation and interest. Training aids work by increasing the intensity of the experience for participants.
+
+These are general tips that apply to all types of training aids so that when you use them they help improve the intensity of your presentation:
+
+- When you’ve finished using a training aid, remove it from view.
+- If it is a projected aid and you’re finished using it, turn it off.
+- Erase the chalkboard or white board when moving on to a new topic and the note taking is finished.
+- When you rehearse your presentation, be sure to practice with your training aids in a full dress rehearsal. It’s better to discover that something doesn’t work when no one is watching than trying to recover from it in the middle of a presentation.
+
+### 15.9. <a name='Empathy'></a>Empathy
+
+Empathy, the ability to experience the feelings of another person and to see and hear from their perspective, is another important quality of the effective instructor. Empathy is an outcome of extended communication, a function of personal familiarity, and a result of genuine effort to understand the difficulties others may be experiencing.
+
+### 15.10. <a name='GoalsandMotivation'></a>Goals and Motivation
+
+Establishing reasonable goals and supporting a student’s motives are essential to creating an atmosphere that is conducive to learning. The acquisition of skills requires the desire to learn and practice. Appropriate goals present a level of difficulty sufficient to challenge students while simultaneously allowing them to succeed at the first try… a fine balance. All goals should help all able students achieve to the level of NAUI certification standards, and all divers to safe and enjoyable dives.
+
+### 15.11. <a name='Reinforcement'></a>Reinforcement
+
+Learning is more permanent when it is reinforced. Regardless of the reason for taking a dive class, students who are encouraged by success will continue despite difficulties, remain enthusiastic, and eventually become more proficient. Again, a central tenet of learning theory postulates that we learn from our successes, not our mistakes. Success is fostered by skillful instruction.
+
+### 15.12. <a name='Pacing'></a>Pacing
+
+In order for learning to occur continuously throughout a training session, each skill and topic should be introduced by building upon prior acquisition of prerequisites. At the same time, debilitating mental and physical fatigue resulting from too intense or prolonged concentration must be avoided. When topics or activities require greater effort, shorter sessions or more frequent breaks are beneficial to learning.
+
+Pool or confined water training should be planned to maximize practice and minimize talk. Monitor all students carefully, especially for cold and dehydration. Cold, uncomfortable students do not learn easily, but one of the things they do learn is that diving is cold and uncomfortable. Frequent drinking, bathroom, and warming breaks make water activity pleasant and learning probable.
+
+### 15.13. <a name='Continuity'></a>Continuity
+
+Courses designed with logical continuity can avoid many hampering plateaus and reduce learning delays. Students should be helped to develop a few root skills, and then be led to refine them as they are subsequently built into more complex patterns. The rapid, trouble-free learning that usually results from carefully planned transitions encourages students and rewards instructors.
+
+### 15.14. <a name='RelatxationandPerformance'></a>Relatxation and Performance
+
+Fostering a sense of relaxation and efficiency in the water is really the fundamental issue when teaching people to dive. Without such feelings, easily performing all underwater tasks such as buoyancy control, snorkel and regulator clearing, shared-air ascents, and underwater problem solving is probably impossible. In fact, until the student has discovered a comfort zone and feels confident in performing any particular diving skill, it may be pointless to push forward with any other tasks, despite planned curriculum.
+
+### 15.15. <a name='PhysicalAwarenessandSensitivity'></a>Physical Awareness and Sensitivity
+
+A high degree of awareness and sensitivity is important to the learning process and diving generally. Many students and infrequent or poorly trained divers may be unaware of their bodies.
+
+Modern diving instructional methods and teaching techniques require internal feedback, literally “getting the feeling” of doing it right and developing kinesthetic awareness. People need to become reacquainted with their bodies, and to increase awareness of their muscle memory abilities. If students have some clue as to what a skill pattern feels like, they will have a better chance of replicating it. This may sometimes require the instructor and/or staff to physically guide a student’s motion. An example would be literally swinging a student’s leg in a proper hip-based fin kick to establish a sensory reference for the appropriate leg and fin position, resistance encountered, and muscle groups employed.
+
+Tapping into methods emphasizing rhythm, relaxation, awareness, and feeling can foster more natural “second-nature” skill assimilation and subsequent desirable responses.
+
+### 15.16. <a name='PhysicalSurroundings'></a>Physical Surroundings
+
+Physical sites for teaching that enhance student comfort and help learning can be found in a variety of settings, from retail dive stores to university campuses and school classrooms, corporate offices to palm-shaded lagoons or pool decks. Any secure, well lit area that provides a comfortable, distraction-free environment with facilities for a chalkboard or marker board, student seating, work surfaces (tables or desks), and convenient access to toilets will do. Electrical outlets for audiovisual equipment are highly desirable.
+
+Water site selection, whether for confined or open water training, is based on the criteria of safe access and suitable conditions to meet the requirements detailed in the NAUI Standards and Policies Manual. Security for gear and personal belongings must also be considered, as must adequate emergency equipment and staff.
+
+### 15.17. <a name='AnxietyandFear'></a>Anxiety and Fear
+
+Properly handled, anxiety and fear can actually enhance learning. Often, though, they are students’ biggest learning hurdles and instructors’ most frequent teaching problems. The first and sometimes only concern of many beginning divers is personal safety, though others may dwell upon fear of failure. In either case, other learning tasks are secondary until these feelings are relieved.
+
+### 15.18. <a name='EffectiveMethodology'></a>Effective Methodology
+
+#### 15.18.1. <a name='WaterClassManagement'></a>Water Class Management
+
+The mechanics of water class management are dictated by two considerations: safety and communication. A poorly arranged water class conducted in a haphazard fashion stands little chance of achieving an optimal learning environment, nor does it effectively reduce risk.
+
+The instructor and leadership staff should always be in a position to render immediate assistance. This usually means being in the water, strategically positioned, and prepared to deal with any incident. Classes should be conducted away from distractions, environmental dangers, and otherwise unsuitable surroundings.
+
+Effective communication can only take place when students are comfortable, secure, and eager. Cold, sun, waves, and wind are environmental concerns in open water. Shallow depths for beginning students tend to reduce anxiety levels, as do close buddy contact and ample staff. Crowds tend to disturb students and staff alike. Adverse circumstances reduce students’ concentration and diffuse instructors’ teaching efforts.
+
+#### 15.18.2. <a name='SurfaceTeaching'></a>Surface Teaching
+
+There are many teacher-student formations that can be effective. Placement of assistants is also important. Generally the teacher should be in a position to observe any blind spots or constantly moving to be nearest the student performing a skill. Consider a few placements and their relationships to effective instructor control and observation and position of assistants:
+
+- Line-up, with students in a line and the instructor facing them in front, is a common formation to start classes, developing into a more informal atmosphere as time proceeds.
+- Utilizing a corner in a swimming pool with the class lining two sides and forming a “V” with the instructor facing the group is also common and provides optimum group control.
+- Semicircular, with students half-surrounding the instructor, creates a feeling of togetherness and sharing.
+- Instructor-centered, with instructor surrounded on all sides, is a good method used by talented communicators, but beware of keeping your back to the same people for more than brief moments.
+- Instructor as part of a circle, with the instructor integrated into the circle, has a less intimidating effect on students.
+- Free form, with no line up or ordering of students or instructor, promotes great personal rapport with the class, yielding a kind of “clinic” feel instead of a class-orientation. Note that there are inherent limitations to this method unless the instructor is familiar with the group and its abilities.
+
+### 15.19. <a name='EvaluatingandTeachingSwimmingSkills'></a>Evaluating and Teaching Swimming Skills
+
+NAUI certified scuba divers must demonstrate the ability to swim and also to sustain themselves at the surface with a survival floating/swimming or water treading technique. Conversely, non-swimmers should not be certified as skin or scuba divers.
+
+There are four basic strokes called the crawl, breaststroke, elementary backstroke, and sidestroke. To qualify for certification a prospective NAUI diver must demonstrate forward movement using any basic stroke or a combination thereof for a set number of stroke cycles.
+
+#### 15.19.1. <a name='CrawlStroke'></a>Crawl Stroke
+
+When properly performed, swimmers are in a prone position at the surface of the water. As the arms alternately stroke, swimmers rotate their bodies on an imaginary centerline that runs from head to feet. The whole body rotates, not just the shoulders. Effective body roll contributes to a high elbow recovery and better arm propulsion, and to relaxed, efficient, and rhythmic breathing.
+
+#### 15.19.2. <a name='Breaststroke'></a>Breaststroke
+
+Breaststroke can be used as a resting or survival stroke. From a prone glide position, arms extended, hands together and submerged, and face in the water, the power phase of the arm stroke begins. In a continuous motion the swimmer turns palms outward and extends the arms wider than the shoulders. The head is raised for breathing during this phase of the stroke. The elbows bend and the hands and forearms press against the water toward the feet. At the midpoint of the sweep as the hands pass under the elbow and forearms are slightly past the vertical, the propulsive phase ends.
+
+#### 15.19.3. <a name='ElementaryBackstroke'></a>Elementary Backstroke
+
+The Elementary Backstroke is also used for resting or as a survival stroke because it’s easy to acquire and because the face remains at the surface out of the water making it easy to breathe and recover if fatigued.
+
+Swimmers are supine and use a paired arm and leg action followed by an extended glide. The glide portion is the time at which recovery from fatigue is greatest and should be emphasized for the new swimmer. While extending the glide is important, it is also important to begin the next propulsive cycle before coming to a complete stop in order to take advantage of inertia before it is fully spent.
+
+To minimize frontal resistance during the arm stroke and maximize efficiency, swimmers should keep their heads back, bodies horizontal, and hands close to the body during the arm recovery. This is accomplished by drawing the thumbs along the sides of the body to the armpits and then extending the arms to slightly above shoulder level, with palms facing toward the feet. Immediately press arms and palms against the water and sweep them toward the feet. Hold them there to extend the glide and repeat.
+
+#### 15.19.4. <a name='Sidestroke'></a>Sidestroke
+
+The sidestroke is also considered a good survival swimming technique with very little frontal resistance and a lengthy glide. From the glide position, which is nearly horizontal and on the side with the head and spine straight and legs fully extended, the swimmer’s lower arm (leading arm) is extended in front, the upper arm (trailing arm) is extended toward the feet. The head is turned slightly so the nose and mouth are out of the water but the lower ear remains submerged helping to maintain the head in-line with the spine.
+
+### 15.20. <a name='UnderwaterTeaching'></a>Underwater Teaching
+
+With adequate supervision, contact, and control as criteria, there are a number of ways to take a class under water. Instructors’ judgment determines method based on environment, student readiness, comfort level, and competence:
+
+- Follow me, with the instructor leading, allows the guiding of a class through situations or illustrations underwater.
+- Call down, with the instructor on the bottom issuing signals, works well in the beginning stages of training in clear water with adequate surface assistance.
+- Class first with the instructor following, allows observation from the rear, but requires qualified assistants at the head of the group, and a carefully chosen site.
+- Instructor first, calling entire class down at once, permits the instructor to see the entire class or a singled-out student in a more natural environment.
+- Instructor and buddy pairs in turn, used for skill evaluations while assistants run non-graded surface drills or games.
+
+### 15.21. <a name='Progression'></a>Progression
+
+Progression is a system by which the learner is led through sequential tasks that act as building blocks for one another. Generally speaking, all structured knowledge and physical skills are best taught in this way. No matter what their beginning level, learners will most easily progress by moving from the known to the unknown and from the simple to the complex. New information is best absorbed when there is a background into which new details can fit. Each new phase in a training program must commence at a point that will link it with existing skills and knowledge.
+
+In the early stages of a diving training program, progressions should be small in scale, easily covered, and well-defined in logical, sequential stages. This will permit rapid progress, and by continually presenting attainable objectives, will ensure success.
+
+### 15.22. <a name='Exercises'></a>Exercises
+
+Developmental exercises are wed to the concept of skill development and progression. It is important that exercises relate directly to the skill and ability level at which the instructor is concentrating, and that those exercises use only skills already acquired.
+
+Determining the proper corrective exercise is not always so simple. First, the problem or the skill deficiency that is its root must be isolated.
+
+It is always insufficient to tell the student the problem when correcting motor behavior. Rather than telling the students what not to do, effective instructors and leadership staff help learners discover an efficient alternative. Say, “Do this…” rather than “Don’t do that!”
+
+### 15.23. <a name='SkillsDemonstration'></a>Skills Demonstration
+
+Skills are most easily learned by seeing them performed and then performing them in guided practice with active, prescriptive coaching. Once acquired, skills are remembered through a largely unconscious kinesthetic awareness (muscle memory), a memory even more durable than the factual (intellectual) memory.
+
+“An old but true homily says: I hear, I forget; I see, I remember; I do, I understand.”
+
+Though skills can certainly be learned through trial and error experiments, this is slow at best, and in a sport like diving, unnecessarily risky. Seeing correct movement patterns first not only helps students learn to perform properly more quickly but also minimizes the problem caused by trying to unlearn bad habits. Inefficient skills have no chance to develop.
+
+Seeing a desired skill performed properly the first time has another benefit. The crisper and more polished the initial demonstration; the more compellingly the student experiences it, and the more lasting its learning effect.
+
+#### 15.23.1. <a name='UsingDemonstrationsWell'></a>Using Demonstrations Well
+
+Several factors can enhance the effectiveness of skill demonstrations. For instance, skills can often be demonstrated at two different tempos. The actual working tempo sets the standard for performance, while performance at a teaching/demonstration tempo permits viewing of critical component parts more easily. In the latter case, movements can be repeated, slowed down, or exaggerated for emphasis.
+
+Better learning is also assured when practice and coaching directly follow good demonstrations by the instructor or staff personnel.
+
+Given the precepts referred to in the Laws of Learning, bad demonstrations may be worse than no demonstrations at all, though either will obviously stand in the way of student progress. Poor staff demonstrations incur negative endorsement, reinforce little in the muscle memory, and result in dismay instead of enthusiasm. If staff apparently can’t perform a skill comfortably, students are even less likely to, and they may reject it entirely.
+
+#### 15.23.2. <a name='DemonstrationQualitySkills'></a>Demonstration Quality Skills
+
+It should be clear by now that diving mentors need to demonstrate high degrees of personal skill development to their charges. Excellent diving skills are a necessity for achieving NAUI membership because they are the basis of this important teaching method, and they help members accomplish our Association’s mission by providing a tangible example of competence and commitment. All NAUI members should be notable for their water skills.
+
+### 15.24. <a name='CamaraderieandCompetition'></a>Camaraderie and Competition
+
+Friendly competition can also be woven into the fabric of the learning environment. This is best accomplished in duels between groups rather than between individuals, which will usually favor the best performer. The latter too easily and often leaves the less able feeling insecure and depressed. Group competitions foster cooperation and build respect within mixed-ability groups. Each individual can contribute to achieving a common goal, and feel good about the effort. Successful activities should reinforce team spirit and foster collective pride in the total effort. They also help develop the value of dive buddies and the interdependence of all divers.
+
+### 15.25. <a name='ImaginingandSelf-Concept'></a>Imagining and Self-Concept
+
+Imaging uses mental pictures to aid skill acquisition and improved performance. As described, it helps to have visual images from description, from pictures, or best, from observation of demonstrations. The more vivid and compelling the conjured image, the easier it is to learn from.
+
+Imaging is also preparation for action. Either summoning mental pictures of a performance or concentrating on an image to affect mood or movement can enhance execution. Visual rehearsal is one form of this practice. Role-playing is another.
+
+### 15.26. <a name='LessonPlanning'></a>Lesson Planning
+
+**“Failing to plan is planning to fail.”**
+
+Being prepared, organized, and in control increases instructor confidence and student safety. These are the first casualties of instructors teaching without a comprehensive lesson plan.
+
+The acronym TOM I PASTA was developed early on by military trainers and used to recall the necessary components of a complete lesson plan. It stands for Title, Objectives, Main Points, Introduction, Presentation, Application, Summary, Test, and Assignment. Reviewing the lesson outlines in the current NAUI instructor guides reveals a similarity to this traditional approach and also that most of the lesson preparation work is already complete. The lesson plan components that are included in each unit of NAUI instructor guides in the instructor notes pages are: Instructor Materials; Introduction (attention step, importance or value, main points, student materials and conduct), Statement of Student Performance; Body; Review; Restate Student Performance as Questions; and Assignment.
+
+### 15.27. <a name='EstablishingObjectives-1'></a>Establishing Objectives
+
+In 1962, Robert Mager published Preparing Instructional Objectives and articulated a process by which learning could be measured by establishing intended outcomes in advance and sharing them with students. He is often quoted for saying, “If you’re not sure where you’re going, you’re liable to end up someplace else.”
+
+He subdivided an instructional objective into three components: the performance, the conditions under which the performance will take place, and the standard that the performer will be required to achieve. A simple example for a scuba diving related lesson objective is, “Given the components of scuba and following a demonstration, students will correctly assemble their scuba and determine that it is properly functioning without prompting by the instructor.’’
+
+The conditions of the objective include what the students use to perform (“scuba components”) as well as when they are to perform (“following a demonstration”). The performance to be observed is to “assemble their scuba and determine it is properly functioning.” The standard is “correctly” and “properly” (which implies without error) and specifically “without prompting.” Therefore, if the instructor or assistant must correct the student or intervene with assistance, they have not yet learned according to requirement as set forth by the lesson objective.
+
+NAUI instructor guides provide one element of lesson objectives for all phases of training in a particular course as Statements of Student Performance. To complete the process and exercise the privilege of academic freedom, NAUI leaders must reflect and determine the conditions and standard to which they will require their students to perform.
+
+Instructors or a dive center’s staff of instructors might determine to require all of their students to achieve scores of 100% on any decompression illness quiz or test questions. They are well within their rights as NAUI members to do so, but they also have an obligation to inform the students of this higher standard of performance.
+
+Almost all of the work and drudgery of lesson preparation and establishing objectives for the core instructional courses of Scuba Diver, Advanced Scuba Diver, Master Scuba Diver, and Rescue Scuba Diver has been completed and is available to be fine tuned for the needs of dive centers, NAUI leaders, and most importantly the students.
+
+### 15.28. <a name='ClassroomPreparation'></a>Classroom Preparation
+
+- Identify topic area and sub-topics.
+- Determine objectives (performance, condition, standard).
+- Select teaching method (lecture, discussion, guided discovery, etc.).
+- Identify teaching points. (Teaching points are information that must be presented to meet the standard of achievement required. Teaching points should be supported. They may be supported with comparisons, examples, quotations, definitions, training aids, etc.)
+- Identify key points and select training aids to support key points. (Key points are concepts that are the most important in a lesson and should be retained by students. The primary purpose of training aids is to reinforce the key points of a lesson.)
+
+#### 15.28.1. <a name='SubordinateSteps:PreparetheIntroduction'></a>Subordinate Steps: Prepare the Introduction
+
+Four purposes of an introduction are: gain attention, motivate students to learn, provide an overview of the lesson, identify the performance objectives.
+
+- **Essential components are:** gain attention, value, overview, objectives.
+
+#### 15.28.2. <a name='SubordinateSteps:PreparetheSummary'></a>Subordinate Steps: Prepare the Summary
+
+Two purposes of a summary are: emphasize the importance of what has been learned and reemphasize the key points of the lesson.
+
+- **Essential components are:** regain student attention, restate the lesson objectives, restate the key points of the lesson, and relate the lesson to practical application.
+- **Opportunities during a summary:** ask and answer questions, make recommendations, reward good behavior.
+
+#### 15.28.3. <a name='SubordinateSteps:PreparetheLessonEvaluation'></a>Subordinate Steps: Prepare the Lesson Evaluation
+
+Purpose is to determine if the intended learning objectives have been met.
+
+- **Rationale:** best time to correct misunderstanding, improves retention, can measure teacher performance and provide immediate feedback.
+- **Methods of evaluation:** oral questioning, written quiz or exam, performance observation.
+
+#### 15.28.4. <a name='SubordinateSteps:Preparethelessonplan'></a>Subordinate Steps: Prepare the lesson plan
+
+Ensures a lesson is complete and is properly organized.
+
+- **Rationale:** can serve as a checklist of learning activities, can reveal disorganization and produce logical order.
+- **“TOM I. PASTA” mnemonic:** Title, Objectives, Materials, Introduction, Presentation (Body), Application, Summary, Test (Evaluation), and Assignment.
+
+Subordinate Steps: Rehearse the Lesson
+
+- **Rationale:** familiarity with material, timing adjustment, increased confidence, familiarity with training aids, development of “teaching notes.”
+- **Methods:** recording [audio or video], mirror, another person.
+
+Subordinate Steps: Prepare the Teaching Notes
+
+- Teaching notes are brief notes to “trigger” an idea to be presented. They are not text to be read.
+- Teaching notes should be used for teaching instead of the actual lesson plan.
+- Teaching notes should include annotations regarding use of training aids and elapsed time.
+
+### 15.29. <a name='ConfinedWaterPreparation'></a>Confined Water Preparation
+
+A confined water session is comprised of a series of lessons that are used to introduce skills or skill components in a controlled environment for later application in open water. Certain skills are required to be introduced in confined water during the NAUI Scuba Diver course as delineated in the current NAUI Standards and Policies Manual.
+
+#### 15.29.1. <a name='SampleConfinedWaterSessionOutline'></a>Sample Confined Water Session Outline
+
+- Briefing: (introductions, session overview, facility orientation–hazards and restrictions, safety equipment, communications, etc. Detailed briefing outlines are included in NAUI instructor guides.)
+- Skill review exercises: (from previous sessions as needed)
+- New skills: (skill introductions, demonstrations, practice, review, corrected practice)
+- Activities: (drills, games, etc.)
+- Debriefing: (emphasize key skills, praise performance, etc.)
+
+#### 15.29.2. <a name='StepsofConfinedWaterLessonPreparation'></a>Steps of Confined Water Lesson Preparation
+
+- Identify the skill and any sub-components.
+- Determine objectives: (performance, condition, standard).
+- Select the teaching method: (mimicry, follow the leader, guided discovery, diversion).
+- Determine the time frame for the lesson.
+- Determine the skill progression and the exercises needed to reach the objectives.
+- Determine training aids and assistants needed.
+- Prepare an introduction and summary, if appropriate.
+- Prepare the training aids.
+- Rehearse the skills to be demonstrated (self plus assistants).
+- Prepare teaching notes/slates.
+
+### 15.30. <a name='OpenWaterTraining'></a>Open Water Training
+
+Open water training differs from confined water training in that generally skills that have been learned in confined water are being applied, refined, and evaluated as opposed to being introduced for the first time. However, that does not preclude some skills that may be introduced, learned, applied, and evaluated in open water. Which occurs where is determined by NAUI’s published standards and policies for the course being taught and by the students’ needs.
+
+#### 15.30.1. <a name='SampleOpenWaterSessionOutline'></a>Sample Open Water Session Outline
+
+- Briefing: (introductions, session overview, facility orientation–hazards and restrictions, safety equipment, communications, etc. Detailed briefing outlines are included in NAUI instructor guides.)
+- Skill review exercises: (from previous session if needed)
+- Skill performance: (if needed, new skills are introduced, demonstrated, practiced, reviewed, corrected)
+- Skill evaluations
+- Application of skills: (underwater tour or task)
+- Debriefing: (emphasize key skills, praise performance, etc.)
+
+#### 15.30.2. <a name='StepsofOpenWaterSessionPreparation'></a>Steps of Open Water Session Preparation
+
+- Identify the dive location and an alternate; check weather and environment, print maps and directions.
+- Verify information for briefing: hazards, communications, and emergency procedures.
+- Prepare schedule of activities.
+- Determine staffing and equipment needs.
+- Prepare briefing notes.
+- Inventory and check equipment: personal, backup, and emergency.
+- Prepare emergency action plan: (chain of command, access to EMS).
+- Prepare debriefing notes.
+
+### 15.31. <a name='Summary'></a>Summary
+
+All NAUI leaders use some form of “teaching” in their activities. Understanding and applying the preceding theories and tools, though they are certainly not exhaustive, can help foster NAUI’s goals of safety and environmental protection through education. Every NAUI member’s most significant teaching tool is the concerned, skillful, professional image they project, and their personal enthusiasm for aquatic activity. Students and divers will invariably respond well to such a leader’s concern and support.
