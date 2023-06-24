@@ -278,6 +278,14 @@
     - 13.10.2. [Line Hazards and Precautions](#LineHazardsandPrecautions)
     - 13.10.3. [Diving Floats](#DivingFloats)
     - 13.10.4. [Deploying Dive Flags](#DeployingDiveFlags)
+- 14. [Conservation and Environment Awareness](#ConservationandEnvironmentAwareness)
+  - 14.1. [Introduction](#Introduction-1)
+  - 14.2. [Positive Impact Diving Behavior](#PositiveImpactDivingBehavior)
+  - 14.3. [Minimal Impact Water Skills](#MinimalImpactWaterSkills)
+    - 14.3.1. [Buoyancy Control](#BuoyancyControl)
+    - 14.3.2. [Streamlining](#Streamlining)
+    - 14.3.3. [Correct Finning](#CorrectFinning)
+  - 14.4. [Marine Conservation Activities](#MarineConservationActivities)
 
 <!-- vscode-markdown-toc-config
 	numbering=true
@@ -2052,3 +2060,65 @@ Float uses include diver, line, or flag support, as a station to hold extra equi
 #### 13.10.4. <a name='DeployingDiveFlags'></a>Deploying Dive Flags
 
 Dive flags should be displayed only during diving activities. The Activity Leader should be sure a flag is deployed before divers enter the water, and should also ensure the flag is taken down when all divers have exited the water. Continuous displaying of the flag lessens its significance.
+
+## 14. <a name='ConservationandEnvironmentAwareness'></a>Conservation and Environment Awareness
+
+### 14.1. <a name='Introduction-1'></a>Introduction
+
+As people intimately involved with nature, NAUI leaders learn about the beauty and mysteries of some of our planet’s most diverse ecosystems through direct contact. There is pleasure in helping others share in this privileged view, and there is a NAUI leadership responsibility to preserve the environment for the benefit of our recreation and as a legacy to future generations.
+
+There are three primary ways in which NAUI leaders can educate students and divers in marine conservation:
+
+- Emphasize environmental awareness: help students recognize the basic components and relationships of aquatic ecosystems and the natural processes and human actions that disrupt their natural balance.
+- Foster Positive Impact Diving Behavior and Minimal Impact Water Skills: actively support diving behavior that can help preserve the marine environment and help divers at all levels fine-tune water skills to minimize contact with and resultant damage to aquatic life.
+- Promote marine conservation activities and continuing education through your personal participation in such programs.
+
+### 14.2. <a name='PositiveImpactDivingBehavior'></a>Positive Impact Diving Behavior
+
+NAUI leaders can do much to cause divers to develop a proactive environmentally aware approach to diving. Each NAUI activity can include an environmental improvement goal. Anything from proper waste disposal aboard dive boats or cleaning up dive sites to participation in underwater archeology projects can exemplify such goals.
+
+Never molest underwater habitats. Divers should be cautioned against taking souvenirs. Moving or removing rocks can disrupt countless organisms. Casually chipping walls in freshwater springs in a search for fossils introduces sediment into the environment that may harm living plants and animals. Archaeologically important areas also suffer from careless treatment, and may be ruined for research when artifacts are disturbed. Responsible hunting and collecting aside, NAUI members should promote the rule, “Take only pictures; leave only bubbles.”
+
+Discourage divers from wearing gloves in tropical or warm water dive sites. A barehanded diver is more aware of touching coral and other organisms.
+
+Know and respect game laws. Violation of game laws can result in stiff fines and confiscation of equipment, but social disapproval is often a more powerful deterrent. NAUI members should publicly condemn actions inconsistent with environmental goals and responsible leadership. Divers in a NAUI leader’s charge should be educated to know and follow all game laws, and then to take only what they will surely eat.
+
+Discourage all wild fish feeding. Well meaning, though ignorant, divers and even diving leaders, often try to interact with fish by offering food. This practice distorts the natural food chain and animals’ feeding habits. “Topside” foods can also harm fish digestive systems. Killing other fish or sea urchins to attract fish for observation or to photograph feeding behavior should also be discouraged.
+
+Do not allow or encourage the molestation of marine animals. Turtles, for instance, are air-breathing reptiles. They need to surface regularly. Although they often appear docile and even playful, turtles can be traumatized or drowned by being ridden. There is also a real potential for harm to divers who inappropriately interact with any wild animal. Point out that diving is primarily enjoyed with the eyes.
+
+Discourage destructive boat anchoring. Anchors dropped directly on coral can annihilate whole colonies. Anchor chain dragging across reefs can damage large areas of bottom and reef, crushing and killing animals and plants and ruining habitat. Many marine sanctuaries have installed permanent mooring buoy systems to avoid this problem, but if such a system is unavailable where you’re diving, encourage anchoring in sand, mud or other inert bottoms whenever possible.
+
+Never allow or ignore improper refuse disposal, especially plastic waste. Illegally discharged debris can result in legal penalties as well as cumulative damage to marine ecosystems.
+
+### 14.3. <a name='MinimalImpactWaterSkills'></a>Minimal Impact Water Skills
+
+Students in whom a NAUI leader instills an appreciation for the marine environment will work eagerly to develop Minimal Impact Water Skills. These skills are essential to more comfortable diving and, environmental benefit aside, should be part of all NAUI courses. Divers who understand the link between such skills and safe diving will likewise work to develop them.
+
+#### 14.3.1. <a name='BuoyancyControl'></a>Buoyancy Control
+
+Buoyancy control is the most important factor in Minimal Impact Water Skills. Our goal is for all divers participating in NAUI diving activities to be able to hover motionless at any point in the water column throughout the dive by effective skills utilization and proper weighting.
+
+Correct weighting is fundamental to mastering buoyancy control. Many new or infrequent divers wear too much ballast, relying on their over-inflated BC for depth control. This increases drag, discomfort, and fatigue. Under ballasted divers are also unable to maintain a good swimming position and frequently resort to grabbing objects underwater in order to stay down.
+
+#### 14.3.2. <a name='Streamlining'></a>Streamlining
+
+Streamlining is the term used for swimming with arms close to the body, straight, fluid leg movements, and without dangling gauges, hoses, and loose gear. NAUI leaders should encourage all divers to practice efficient progress through the water. Correct weighting and weight distribution contribute to this, as does good finning technique.
+
+Proper equipment placement will make divers more streamlined. It also decreases entanglement risks. A NAUI leader teaching underwater photography or videography should demonstrate proper methods of handling bulky photographic equipment. Divers should obviously not carry cumbersome gear underwater until they have mastered buoyancy control.
+
+#### 14.3.3. <a name='CorrectFinning'></a>Correct Finning
+
+Finning techniques, such as the modified flutter kick, which employs smaller leg movements, and the cave diver’s bent-leg kick, can help lessen divers’ chances of damaging the environment. Incorrect finning is a particular problem in coral reef environments, since sediment can easily smother coral colonies. With good finning, moving through the water will be nearly effortless.
+
+Some diving leaders recommend, “sculling,” as a non-invasive way of closely observing a reef. The body remains relatively motionless while the hands alone (not sweeping arms) make small circular motions, compensating for moderate water movement.
+
+### 14.4. <a name='MarineConservationActivities'></a>Marine Conservation Activities
+
+NAUI members have many opportunities for fostering environmental awareness in the classroom, in the water and the world at large. But the most powerful conservation ethic is that set by the NAUI leader’s own example. Personal involvement in environmental programs and activities is the best way for a NAUI leader to promote commitment to marine conservation. Organizing and participating in enjoyable diving activities that benefit the environment are by far the most effective ways of helping achieve NAUI’s environmental mission.
+
+NAUI leaders can incorporate a “mini” cleanup in many dives. Prizes may be given to the divers who collect the most unusual trash. Encourage divers to make a habit of always carrying a trash bag in their dive bag, in case a proper trash receptacle is not available at a dive site, and to leave underwater and topside areas cleaner than they found them.
+
+In response to the growing threats to fragile marine ecosystems, the United States Congress created the National Marine Sanctuary Program (NMSP) in 1972. This program is designed to protect and promote national areas of historic, scientific, and ecological significance for research, education, management and preservation.
+
+Support the NAUI Environmental Enrichment Award Program. The award is annually presented to an individual and/or organization for achievements in environmental conservation. The award is for work that has caused an important and recognizable improvement in the aquatic environment, provides significant protection for the aquatic environment, or educates and inspires others to protect and conserve the aquatic environment.
